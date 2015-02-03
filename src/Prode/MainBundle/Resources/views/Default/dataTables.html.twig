@@ -1,0 +1,41 @@
+{% extends 'ProdeMainBundle:Default:baseOneColumn.html.twig' %}
+
+{% block title %}Partidos{% endblock %}
+
+{% block body %}
+
+<script>
+    
+$.extend( $.fn.dataTable.defaults, {
+    "aoColumnDefs": [
+         { "bSearchable": false, "aTargets": [ 1, 2, 3 ] },
+         { "bSortable": false, "aTargets": [ 1, 2, 3 ] }
+         
+       ],
+    "language": {
+        url: '//cdn.datatables.net/plug-ins/28e7751dbec/i18n/Spanish.json'
+    }
+    //"aoColumns": [ {"bSearchable": true}, {"bSearchable": false}, {"bSearchable": false}, {"bSearchable": false}, {"bSearchable": false}]
+    
+     } );
+
+</script>
+
+<h2>Multiple Example</h2>
+    <div class="table-bordered">
+        {{ addDataTable(columnsA, {
+        'path':          path('data_tables_positions'),
+        'id':            'dataTableA',
+        'bLengthChange': 1,
+        'bInfo':         1,
+        'bFilter':       1,
+        'bSort':        1,
+        "bProcessing": 1,
+        "serverSideProcessing": 1,
+        "paginate": 1,
+        "iDisplayLength": 25,
+        
+        }) }}
+    </div>
+    
+{% endblock %}

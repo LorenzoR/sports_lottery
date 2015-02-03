@@ -1,0 +1,81 @@
+{% extends 'ProdeMainBundle:Default:baseOneColumn.html.twig' %}
+
+{% block title %}Cargar Resultados{% endblock %}
+
+{% block body %}
+
+<div id="nav-fixture-2-column" style="padding: 5px;">
+    
+    <h2>Partidos {{ round }}</h2>
+    
+    <ul>
+        <li class="first">1ra F</li>
+        <li class="fechas"><a href="{{ path('load_results', {'round': 'A'}) }}" class="">Grupo A</a></li>
+        <li class="fechas"><a href="{{ path('load_results', {'round': 'B'}) }}" class="">Grupo B</a></li>
+        <li class="fechas"><a href="{{ path('load_results', {'round': 'C'}) }}" class="">Grupo C</a></li>
+        <li class="fechas"><a href="{{ path('load_results', {'round': 'D'}) }}" class="">Grupo D</a></li>
+        <li class="fechas"><a href="{{ path('load_results', {'round': 'E'}) }}" class="">Grupo E</a></li>
+        <li class="fechas"><a href="{{ path('load_results', {'round': 'F'}) }}" class="">Grupo F</a></li>
+        <li class="fechas"><a href="{{ path('load_results', {'round': 'G'}) }}" class="">Grupo G</a></li>
+        <li class="fechas"><a href="{{ path('load_results', {'round': 'H'}) }}" class="">Grupo H</a></li>
+    </ul>
+
+    <ul>
+        <li class="first">2da F</li>
+        <li class="fechas"><a href="{{ path('load_results', {'round': '8'}) }}" class="">Octavos</a></li>
+        <li class="fechas"><a href="{{ path('load_results', {'round': '4'}) }}" class="">Cuartos</a></li>
+        <li class="fechas"><a href="{{ path('load_results', {'round': '2'}) }}" class="">Semi Final</a></li>
+        <li class="fechas"><a href="{{ path('load_results', {'round': '3'}) }}" class="">Tercer Puesto</a></li>
+        <li class="fechas"><a href="{{ path('load_results', {'round': '1'}) }}" class="">Final</a></li>
+    </ul>
+</div>
+
+<div id="prode_menu-2-column">
+    
+    <form class="forecast" method="post">
+{% for game in games %}
+        <div class="prode_content">
+            <table class="prode_content" border="0" width="80%" align="center" style="margin: 0px 0px 0px 70px; padding: 0px 0px 0px 0px;">
+                <tbody>
+                    <tr>
+                        <td width="40%" align="left" border="1" valign="middle" style="vertical-align:middle;">
+                            <span class="flagsp {{ game.home.img }}" title="{{ game.home.name }}"> </span>
+                            <input type="radio" name="games[{{ game.id }}]" value="{{ game.home.id }}" style="vertical-align:middle;" {{ checked[game.id]['home'] }} />
+                        </td>
+                        <td width="20%" align="center" valign="middle">
+                                <input type="radio" name="games[{{ game.id }}]" value="0" style="vertical-align:middle;" {{ checked[game.id]['draw'] }} />
+                            </td>
+                            <td width="40%" align="right" valign="middle">
+                                    <input type="radio" name="games[{{ game.id }}]" value="{{ game.away.id }}" style="vertical-align:middle;" {{ checked[game.id]['away'] }} />
+                                    <span class="flagsp {{ game.away.img }}" title="{{ game.away.name }}"> </span>
+                                </td>
+                            </tr>
+                            <tr>	
+                                <td class="{{ resultTdClass[game.id]['checked']['home'] }}" width="40%" align="left" valign="middle" style="font-weight: bold;">
+                                    <div id="">{{ game.home.name }}</div>
+                                </td>
+                                <td class="{{ resultTdClass[game.id]['checked']['draw'] }}" width="20%" align="center" valign="middle">
+                                    <div id="">Empate</div>
+                                </td>
+                                <td class="{{ resultTdClass[game.id]['checked']['away'] }}" width="40%" align="right" valign="middle">
+                                    <div id="">{{ game.away.name }}</div>
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                    <div class="prode_line-2-column"></div>
+                </div>
+{% endfor %}
+
+
+                <div id="prode_footer-2-column">
+                    <div align="right" style="margin-right: 45px;">
+                        <input type="submit" value="Enviar" name="B1" class="button">&nbsp;&nbsp;
+                        <input type="reset" value="Borrar" name="B2" class="button">
+                    </div>
+                </div>
+
+            </form>
+        </div>
+
+{% endblock %}

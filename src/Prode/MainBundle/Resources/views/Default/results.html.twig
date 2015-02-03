@@ -1,0 +1,218 @@
+{% extends 'ProdeMainBundle:Default:baseOneColumn.html.twig' %}
+
+{% block title %}Resultados{% endblock %}
+
+{% block body %}
+
+<div id="nav-fixture" style="padding: 5px;">
+    <ul>
+        <li class="first">Primera Fase</li>
+        <li class="fechas"><a href="{{ path('results', {'round': 'A'}) }}" class="">Grupo A</a></li>
+        <li class="fechas"><a href="{{ path('results', {'round': 'B'}) }}" class="">Grupo B</a></li>
+        <li class="fechas"><a href="{{ path('results', {'round': 'C'}) }}" class="">Grupo C</a></li>
+        <li class="fechas"><a href="{{ path('results', {'round': 'D'}) }}" class="">Grupo D</a></li>
+        <li class="fechas"><a href="{{ path('results', {'round': 'E'}) }}" class="">Grupo E</a></li>
+        <li class="fechas"><a href="{{ path('results', {'round': 'F'}) }}" class="">Grupo F</a></li>
+        <li class="fechas"><a href="{{ path('results', {'round': 'G'}) }}" class="">Grupo G</a></li>
+        <li class="fechas"><a href="{{ path('results', {'round': 'H'}) }}" class="">Grupo H</a></li>
+    </ul>
+
+    <ul>
+        <li class="first">Segunda Fase</li>
+        <li class="fechas"><a href="{{ path('results', {'round': '8'}) }}" class="">Octavos</a></li>
+        <li class="fechas"><a href="{{ path('results', {'round': '4'}) }}" class="">Cuartos</a></li>
+        <li class="fechas"><a href="{{ path('results', {'round': '2'}) }}" class="">Semi Final</a></li>
+        <li class="fechas"><a href="{{ path('results', {'round': '3'}) }}" class="">Tercer Puesto</a></li>
+        <li class="fechas"><a href="{{ path('results', {'round': '1'}) }}" class="">Final</a></li>
+    </ul>
+</div>
+
+<div id="prode_menu">
+
+{% if games|length <= 0 %}
+    
+{% else %}
+{% for game in games %}
+    <form class="forecast" method="post">
+        <div class="prode_content">
+            <table class="prode_content" border="0" width="80%" align="center" style="margin: 0 auto; padding: 0px 0px 0px 0px;">
+                <tbody>
+                    <tr>
+                        <td width="40%" align="left" border="1" valign="middle" style="vertical-align:middle;">
+                            <span class="flagsp {{ game.home.img }}" title="{{ game.home.name }}"> </span>
+                        </td>
+                        <td width="20%" align="center" valign="middle">
+                            &nbsp;
+                        </td>
+                        <td width="40%" align="right" valign="middle">
+                            <span class="flagsp {{ game.away.img }}" title="{{ game.away.name }}"> </span>
+                        </td>
+                    </tr>
+                    <tr>	
+                        <td width="40%" align="left" valign="middle">
+                            <div id="">{{ game.home.name }}</div>
+                        </td>
+                        <td width="20%" align="center" valign="middle" style="font-weight: bold;">
+                            vs.
+                        </td>
+                        <td width="40%" align="right" valign="middle">
+                            <div id="">{{ game.away.name }}</div>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="3">
+                            <a href="{{ path('result', {'gameId': game.id }) }}">
+                                Ver Resultados
+                            </a>
+                        </td>
+                    </tr>
+              </tbody>
+                    </table>
+
+                    <div id="results_game_{{ game.id }}" style="display: none;">
+                        <table id="table_results_game_{{ game.id }}" class="results" style="width: 95%; margin: 0 auto; text-align: center;">
+                            <thead>
+                                <tr>
+                                    <th><b>Usuario</b></th>
+                                    <th><b>{{ game.home }}</b></th>
+                                    <th><b>Empate</b></th>
+                                    <th><b>{{ game.away }}</b></th>
+                                    <th><b>Fecha</b></th>
+                                </tr>
+                            </thead>
+                            <tbody id="tbody_{{ game.id }}">
+                            </tbody>
+                        </table>
+                        <div class="results_pagination">
+                            <ul id="pagination_{{ game.id }}" class="pagination-clean" style="width: 95%; margin: 0 auto;">
+                                <li class="previous-off">«Anterior</li>
+                                <li class="active">1</li>
+                                <li><a href="#">2</a></li>
+                                <li><a href="#">3</a></li>
+                                <li><a href="#">4</a></li>
+                                <li><a href="#">5</a></li>
+                                <li><a href="#">6</a></li>
+                                <li><a href="#">7</a></li>
+                                <li class="next"><a href="#" onclick="javascript:moreResults('{{ game.id }}', '20');
+                                return false;">Siguiente »</a></li>
+                                    </ul>
+                                </div>
+                                <br />
+                                <br />
+                            </div>
+                        </div>
+                    </form>
+{% endfor %}
+
+{% endif %}
+                </div>
+
+                <script type="text/javascript">
+
+                            var currentFirstResult = 0;
+                            var resultsPerPage = 20;
+
+                            function showResults(gameId) {
+
+                                getForecasts(gameId, 0, resultsPerPage, showTable);
+
+                                currentFirstResult = resultsPerPage;
+
+                                return false;
+                            }
+
+                            function showTable(gameId, data) {
+
+                                var tableId = 'table_results_game_' + gameId;
+
+                                var tableRef = document.getElementById(tableId).getElementsByTagName('tbody')[0];
+
+                                for (var i = 0; i < data.length; i++) {
+                                    var forecast = jQuery.parseJSON(data[i]);
+
+                                    var newRow = tableRef.insertRow(tableRef.rows.length);
+
+                                    var newCell = newRow.insertCell(0);
+                                    var newText = document.createTextNode(forecast.username);
+                                    newCell.appendChild(newText);
+
+                                    newCell = newRow.insertCell(1);
+                                    newText = document.createTextNode(forecast.home);
+                                    newCell.appendChild(newText);
+
+                                    newCell = newRow.insertCell(2);
+                                    newText = document.createTextNode(forecast.draw);
+                                    newCell.appendChild(newText);
+
+                                    newCell = newRow.insertCell(3);
+                                    newText = document.createTextNode(forecast.away);
+                                    newCell.appendChild(newText);
+
+                                    newCell = newRow.insertCell(4);
+                                    newText = document.createTextNode(forecast.date);
+                                    newCell.appendChild(newText);
+
+
+                                }
+
+                                var elementId = 'results_game_' + gameId;
+                                document.getElementById(elementId).style.display = 'block';
+                            }
+
+                            function moreResults(gameId, maxResults) {
+                                getForecasts(gameId, currentFirstResult + 20, maxResults, updateTable);
+
+                                return false;
+                            }
+
+                            function updateTable(gameId, data) {
+
+                                var tableId = 'table_results_game_' + gameId;
+
+                                var tableElement = document.getElementById(tableId);
+
+                                var tableRef = tableElement.getElementsByTagName('tbody')[0];
+
+                                //$( "#" + tableId ).fadeOut( 400, "linear" );
+
+                                $("#" + tableRef.id).empty();
+
+                                for (var i = 0; i < data.length; i++) {
+                                    var forecast = jQuery.parseJSON(data[i]);
+
+                                    var newRow = tableRef.insertRow(tableRef.rows.length);
+
+                                    var newCell = newRow.insertCell(0);
+                                    var newText = document.createTextNode(forecast.username);
+                                    newCell.appendChild(newText);
+
+                                    newCell = newRow.insertCell(1);
+                                    newText = document.createTextNode(forecast.home);
+                                    newCell.appendChild(newText);
+
+                                    newCell = newRow.insertCell(2);
+                                    newText = document.createTextNode(forecast.draw);
+                                    newCell.appendChild(newText);
+
+                                    newCell = newRow.insertCell(3);
+                                    newText = document.createTextNode(forecast.away);
+                                    newCell.appendChild(newText);
+
+                                    newCell = newRow.insertCell(4);
+                                    newText = document.createTextNode(forecast.date);
+                                    newCell.appendChild(newText);
+
+                                }
+
+                                tableElement.style.display = 'table';
+
+                                currentFirstResult += resultsPerPage;
+
+                                return false;
+                            }
+
+
+
+                    </script>
+
+{% endblock %}

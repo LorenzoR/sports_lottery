@@ -1,0 +1,17 @@
+{% extends 'ProdeMainBundle:Default:base.html.twig' %}
+
+{% set wrap_id = 'wrap-2-column' %}
+
+{% block content_wrap %}
+
+<div id="main-2-column">				
+    {% block body %}{% endblock %}
+</div>
+
+<div id="sidebar">
+    {% block sidebar %}
+    {% endblock %}
+</div>
+
+<!-- content-wrap ends here -->	
+{% endblock %}

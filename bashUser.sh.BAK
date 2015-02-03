@@ -1,0 +1,6 @@
+#!/bin/bash 
+
+while IFS=';' read dni firstname lastname email businessUnit workplace; do
+	printf '%s %s %s %s %s %s %s\n' "echo fos:user:create" "$dni" "$firstname" "$lastname" "$email" "$businessUnit" "$workplace"
+    #php app/console fos:user:create "$username" "$email" "$username"
+done < userList.txt

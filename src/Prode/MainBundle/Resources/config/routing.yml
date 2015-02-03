@@ -1,0 +1,56 @@
+
+prode_main_homepage:
+    pattern:  /
+    defaults: { _controller: ProdeMainBundle:Default:index }
+    
+games:
+    path:  /partidos/{round}
+    defaults: { _controller: ProdeMainBundle:Default:game, round: A }
+
+result:
+    path:  /resultado/{gameId}
+    defaults: { _controller: ProdeMainBundle:Default:result, gameId: 1 }
+
+results:
+    path:  /resultados/{round}
+    defaults: { _controller: ProdeMainBundle:Default:results, round: A }
+    
+positions:
+    path:  /posiciones/
+    defaults: { _controller: ProdeMainBundle:Default:positions}
+    
+rules:
+    path:  /reglamento/
+    defaults: { _controller: ProdeMainBundle:Default:rules}
+
+# Admin
+edit_forecasts:
+    path:  /editarProdes/{userId}/{round}
+    defaults: { _controller: ProdeMainBundle:Admin:editForecasts, round: A, userId: 0 }
+    
+load_results:
+    path:  /cargarResultados/{round}
+    defaults: { _controller: ProdeMainBundle:Admin:loadResults, round: A }
+        
+rss:
+    path:  /rss/
+    defaults: { _controller: ProdeMainBundle:Default:rss}
+    
+# Ajax
+get_forecasts_by_game:
+  pattern:  /ajax/game/{gameId}/{firstResult}/{maxResults}
+  defaults: { _controller: ProdeMainBundle:Ajax:getGameForecasts }
+  options:
+        expose: true
+        
+data_tables:
+  pattern:  /ajax/results/
+  defaults: { _controller: ProdeMainBundle:Ajax:dataTables }
+  options:
+        expose: true
+        
+data_tables_positions:
+  pattern:  /ajax/positions/
+  defaults: { _controller: ProdeMainBundle:Ajax:dataTablesPositions }
+  options:
+        expose: true

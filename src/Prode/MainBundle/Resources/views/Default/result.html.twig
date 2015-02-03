@@ -1,0 +1,64 @@
+{% extends 'ProdeMainBundle:Default:baseOneColumn.html.twig' %}
+
+{% block title %}Partidos{% endblock %}
+
+{% block body %}
+
+<script>
+    
+$.extend( $.fn.dataTable.defaults, {
+    "fnRowCallback": function( nRow, aData, iDisplayIndex ) {
+			
+			/* For each draw - set the class based on the stored data */
+			nRow.className = (aData[5] == 1) ?
+				nRow.className+'_selected' :
+			 	nRow.className.replace( /_selected/, "" );
+                        
+                        if ( {{ resultIndex }} != 0 ) {
+                            if ( aData[{{ resultIndex }} ] == "X" ) {
+                                nRow.className = 'correct_result';
+                            }
+                            else {
+                                nRow.className = 'incorrect_result';
+                            }
+                        }
+			
+			return nRow;
+		},
+    "aoColumnDefs": [
+         { "bSearchable": false, "aTargets": [ 1, 2, 3 ] },
+         { "bSortable": false, "aTargets": [ 1, 2, 3 ] }
+         
+       ],
+    "language": {
+        url: '//cdn.datatables.net/plug-ins/28e7751dbec/i18n/Spanish.json'
+    }
+    //"aoColumns": [ {"bSearchable": true}, {"bSearchable": false}, {"bSearchable": false}, {"bSearchable": false}, {"bSearchable": false}]
+    
+     } );
+
+</script>
+
+<a href="{{ path('results') }}">Resultados</a> >
+<a href="{{ path('results', {'round' : round}) }}">{{ roundTxt }}</a> > 
+{{ gameTitle }}
+
+<h2>{{ gameTitle }}</h2>
+<br />
+    <div class="table-bordered">
+        {{ addDataTable(columnsA, {
+        'path':          path('data_tables'),
+        'id':            'dataTableA',
+        'bLengthChange': 1,
+        'bInfo':         1,
+        'bFilter':       1,
+        'bSort':        1,
+        "bProcessing": 1,
+        "serverSideProcessing": 1,
+        "paginate": 1,
+        "iDisplayLength": 25,
+        
+        }) }}
+    </div>
+    
+{% endblock %}

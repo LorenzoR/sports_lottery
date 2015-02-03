@@ -1,0 +1,39 @@
+{% extends 'ProdeMainBundle:Default:baseTwoColumns.html.twig' %}
+
+{% block title %}Inicio{% endblock %}
+
+{% block body %}
+
+<div id="countdown" style="margin: 0 130px;">
+    <object width='300' height='198' id='flashCountDown' classid='clsid:D27CDB6E-AE6D-11cf-96B8-444553540000'><param name='movie' value='http://www.fifa.com/flash/widgets/worldcup2014/countdown.swf?lang=es'/><param name='bgcolor' value='#ffffff'/><param name='wmode' value='transparent'/><param name='flashvars' value='lang=es'> <embed width='300' height='198' flashvars='lang=es' wmode='transparent' bgcolor='#ffffff' name='flashCountDown' id='flashCountDown' src=http://www.fifa.com/flash/widgets/worldcup2014/countdown.swf?lang=es type='application/x-shockwave-flash'/></object>
+</div>
+{% endblock %}
+    
+    
+{% block sidebar %}
+<h2>Menu</h2>
+    <ul class="sidemenu">
+        <li><a href="{{ path('prode_main_homepage') }}">Inicio</a></li>
+        <li><a href="{{ path('games', {'round': 'A'}) }}">Partidos</a></li>
+        <li><a href="{{ path('results', {'round': 'A'}) }}">Resultados</a></li>
+        <li><a href="{{ path('positions') }}">Posiciones</a></li>
+        <li><a href="{{ path('rules') }}">Reglamento</a></li>
+        <li><a href="{{ path('fos_user_registration_register') }}">Registrate</a></li>
+    </ul>	
+
+    {% if app.user and is_granted('ROLE_ADMIN') %}
+    <h2>Admin Menu</h2>
+    <ul class="sidemenu">
+        <li><a href="{{ path('edit_forecasts') }}">Editar Prodes</a></li>
+        <li><a href="{{ path('load_results') }}">Cargar Resultados</a></li>
+        <li><a href="editGames.php">Editar Partidos</a></li>
+        <li><a href="loadGamesBulk.php">Editar Partidos Masivo</a></li>
+        <li><a href="usuarios.php">Usuarios</a></li>
+        <li><a href="comentarios.php">Comentarios</a></li>
+        <li><a href="estadisticas.php">Estadisticas</a></li>
+        <li><a href="reglamento.php">Reglamento</a></li>
+        <li><a href="register.php">Registrate</a></li>
+    </ul>
+    {% endif %}
+
+{% endblock %}

@@ -1,0 +1,110 @@
+{% extends 'ProdeMainBundle:Default:baseOneColumn.html.twig' %}
+
+{% block title %}Partidos{% endblock %}
+
+{% block body %}
+
+<div id="nav-fixture" style="padding: 5px;">
+    <ul>
+        <li class="first">Primera Fase</li>
+        <li class="fechas"><a href="{{ path('games', {'round': 'A'}) }}" class="">Grupo A</a></li>
+        <li class="fechas"><a href="{{ path('games', {'round': 'B'}) }}" class="">Grupo B</a></li>
+        <li class="fechas"><a href="{{ path('games', {'round': 'C'}) }}" class="">Grupo C</a></li>
+        <li class="fechas"><a href="{{ path('games', {'round': 'D'}) }}" class="">Grupo D</a></li>
+        <li class="fechas"><a href="{{ path('games', {'round': 'E'}) }}" class="">Grupo E</a></li>
+        <li class="fechas"><a href="{{ path('games', {'round': 'F'}) }}" class="">Grupo F</a></li>
+        <li class="fechas"><a href="{{ path('games', {'round': 'G'}) }}" class="">Grupo G</a></li>
+        <li class="fechas"><a href="{{ path('games', {'round': 'H'}) }}" class="">Grupo H</a></li>
+    </ul>
+
+    <ul>
+        <li class="first">Segunda Fase</li>
+        <li class="fechas"><a href="{{ path('games', {'round': '8'}) }}" class="">Octavos</a></li>
+        <li class="fechas"><a href="{{ path('games', {'round': '4'}) }}" class="">Cuartos</a></li>
+        <li class="fechas"><a href="{{ path('games', {'round': '2'}) }}" class="">Semi Final</a></li>
+        <li class="fechas"><a href="{{ path('games', {'round': '3'}) }}" class="">Tercer Puesto</a></li>
+        <li class="fechas"><a href="{{ path('games', {'round': '1'}) }}" class="">Final</a></li>
+    </ul>
+</div>
+
+<div id="prode_menu">
+
+    {% if games|length <= 0 %}
+    <p id="no_games_left">
+        <span class="ui-icon ui-icon-check" style="float:left; margin:0 7px 0 0;"></span>
+        Todavia no hay partidos en {{ roundTxt }}.
+    </p>
+    {% elseif forecastsLeft > 0 %}
+    <p id="games_left">
+        <span class="ui-icon ui-icon-alert" style="float:left; margin:0 7px 0 0;"></span>
+        Te faltan mandar {{ forecastsLeft }} resultados de {{ roundTxt }}.
+    </p>
+    {% else %}
+    <p id="no_games_left">
+        <span class="ui-icon ui-icon-check" style="float:left; margin:0 7px 0 0;"></span>
+        Mandaste todos los resultados de {{ roundTxt }}.
+    </p>
+    {% endif %}
+
+{% if games|length > 0 %}
+    <form class="forecast" method="post">
+
+{% for game in games %}
+        <div class="prode_content">
+            <table class="prode_content" border="0" width="80%" align="center" style="margin: 0px 0px 0px 70px; padding: 0px 0px 0px 0px;">
+                <tbody>
+                    <tr>
+                        <td width="40%" align="left" border="1" valign="middle" style="vertical-align:middle;">
+                            <span class="flagsp {{ game.home.img }}" title="{{ game.home.name }}"> </span>
+
+                            {% if not game.hasStarted %}
+                            <input type="radio" name="games[{{ game.id }}]" value="{{ game.home.id }}" style="vertical-align:middle;" {{ checked[game.id]['home'] }} />
+                            {% endif %}
+
+                        </td>
+                        <td width="20%" align="center" valign="middle">
+                            {% if not game.hasStarted %}
+                                <input type="radio" name="games[{{ game.id }}]" value="0" style="vertical-align:middle;" {{ checked[game.id]['draw'] }} />
+                            {% else %}
+                                &nbsp;
+                            {% endif %}
+                            </td>
+                            <td width="40%" align="right" valign="middle">
+                            {% if not game.hasStarted %}
+                                    <input type="radio" name="games[{{ game.id }}]" value="{{ game.away.id }}" style="vertical-align:middle;" {{ checked[game.id]['away'] }} />
+                            {% endif %}
+
+                                    <span class="flagsp {{ game.away.img }}" title="{{ game.away.name }}"> </span>
+                                </td>
+                            </tr>
+                            <tr>	
+                                <td class="{{ resultTdClass[game.id]['correct']['home'] }}" width="40%" align="left" valign="middle" style="{{ rowStyle[game.id]['home'] }}">
+                                    <div id="">{{ game.home.name }}</div>
+                                </td>
+                                <td class="{{ resultTdClass[game.id]['correct']['draw'] }}" width="20%" align="center" valign="middle" style="{{ rowStyle[game.id]['draw'] }}">
+                                    <div id="">Empate</div>
+                                </td>
+                                <td class="{{ resultTdClass[game.id]['correct']['away'] }}" width="40%" align="right" valign="middle" style="{{ rowStyle[game.id]['away'] }}">
+                                    <div id="">{{ game.away.name }}</div>
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                    <div class="prode_line"></div>
+                </div>
+{% endfor %}
+
+
+                <div id="prode_footer">
+                    <div align="right" style="margin-right: 45px;">
+                        <input type="submit" value="Enviar" name="B1" class="button">&nbsp;&nbsp;
+                        <input type="reset" value="Borrar" name="B2" class="button">
+                    </div>
+                       
+                </div>
+
+            </form>
+    {% endif %} 
+        </div>
+
+{% endblock %}

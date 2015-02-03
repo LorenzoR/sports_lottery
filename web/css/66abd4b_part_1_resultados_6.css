@@ -1,0 +1,140 @@
+#nav-fixture {
+    color: #343434;
+    margin: 0 5px 5px;
+    padding-bottom: 7px;
+}
+
+#nav-fixture ul {
+    clear: both;
+    display: table;
+    padding: 0;
+    width: 100%;
+}
+
+#nav-fixture li.first {
+    border: medium none;
+    color: #F37121;
+    height: 10px;
+    padding-left: 20px;
+}
+
+#nav-fixture li {
+    border-right: 1px solid #666666;
+    float: left;
+    font-size: 93%;
+    font-weight: 700;
+    padding: 0 7px 0 7px;
+}
+
+li {
+    list-style: none outside none;
+}
+
+#nav-fixture li.fechas {
+    min-width: 10px;
+}
+
+#nav-fixture a.actual {
+    color: #89B00A;
+}
+
+#prode_menu {
+    background: none repeat scroll 0 0 #FFFFFF;
+    width: 610px;
+    margin-bottom: 20px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+table.prode_content {
+    display: table;
+    padding-top: 3px;
+    padding-left: 0;
+    margin-top: 0;
+    line-height: 20px;
+    vertical-align: middle;
+    color: #000000;
+    text-align: center;
+    text-decoration:none;
+
+}
+
+#prode_footer {
+    height: 40px;
+    text-align: right;
+    margin-bottom: 5px;
+    padding-right: 10px;
+    padding-top: 20px;
+}
+
+.prode_line {
+    width: 510px;
+    margin: 0 0 0 30px;
+    margin-top: 1px;
+    border-bottom: 1px solid #000000;
+}
+
+.correctResult {
+    color: green;
+    font-weight: bold;
+}
+
+.incorrectResult {
+    color: red;
+}
+
+#games_left {
+    color: red;
+    font-weight: bold;
+    margin: 0 140px !important;
+}
+
+#no_games_left {
+    color: green;
+    font-weight: bold;
+    margin: 0 140px !important;
+}
+
+ul{border:0; margin:0; padding:0;}
+
+.pagination-clean li{
+    border:0; margin:0; padding:0;
+    font-size:11px;
+    list-style:none;
+}
+.pagination-clean li, .pagination-clean a{
+    border:solid 1px #DEDEDE
+        margin-right:2px;
+}
+.pagination-clean .previous-off,
+.pagination-clean .next-off {
+    color:#888888
+        display:block;
+    float:left;
+    font-weight:bold;
+    padding:3px 4px;
+}
+.pagination-clean .next a,
+.pagination-clean .previous a {
+    font-weight:bold;
+    border:solid 1px #FFFFFF;
+} 
+.pagination-clean .active{
+    color:#00000
+        font-weight:bold;
+    display:block;
+    float:left;
+    padding:4px 6px;
+}
+.pagination-clean a:link,
+.pagination-clean a:visited {
+    color:#0033CC
+        display:block;
+    float:left;
+    padding:3px 6px;
+    text-decoration:none;
+}
+.pagination-clean a:hover{
+    text-decoration:none;
+}

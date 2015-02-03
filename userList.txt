@@ -1,0 +1,649 @@
+14514757;Adriana Nelva;Alasia;aalasia@acacoop.com.ar;Insumos;Fábrica San Nicolás
+28075621;Alan;Bain;abain@acacoop.com.ar;CDC;CDC Gualeguay
+10188630;Leda Maria;Abdala De Juarez;abdala@acacoop.com.ar;Adm. y Finanzas;Sucursal Rosario
+27653017;Alejandro Daniel;Bertone;abertone@acacoop.com.ar;Adm. y Finanzas;Casa Central
+22137107;Silvia Graciela;Tonon;abogadoscampana@acacoop.com.ar;Insumos;Planta Campana
+22846779;Analia Lorena;Bogo Morales;abogomorales@acacoop.com.ar;Productos Agricolas;Casa Central
+21768945;Sergio Horacio;Millan;acahacienda@acacoop.com.ar;Hacienda;Mercado de Liniers
+23904019;Leandro Adrian;Nobile;acahacienda@acacoop.com.ar;Hacienda;Mercado de Liniers
+12127978;Juan Carlos;Ortiz;acahacienda@acacoop.com.ar;Hacienda;Mercado de Liniers
+32956586;Agustin Alejandro;Capria;acapria@acacoop.com.ar;Comercio Exterior;Casa Central
+26591074;Adrian Dario;Castro;acastro@acacoop.com.ar;CDC;CDC Eduardo Castex
+11395570;Victor Oreste;Accastello;accastello@acacoop.com.ar;Insumos;Casa Central
+11381043;Alberto Ruben;Chiavari;achiavari@acacoop.com.ar;CDC;CDC Zavalla
+23697817;Alberto Ivan;Corsico;acorsico@acacoop.com.ar;Insumos;CDC Tio Pujio
+26892640;Santiago;Acquaroli;acquaroli@acacoop.com.ar;Insumos;Casa Central
+11127340;Alberto Daniel;Dimangano;adimangano@acacoop.com.ar;Productos Agricolas;Sucursal Rosario
+34125426;Juan Agustin;Esquivel;aesquivel@acacoop.com.ar;Insumos;CDC Pehuajo
+7803038;Abraham Jaime;Falczuk;afalczuk@acacoop.com.ar;Insumos;Planta Campana
+30848360;Ana Maria;Farias;afarias@acacoop.com.ar;CDC;CDC Despeñaderos
+27666905;Adrian Ernesto;Ferrari;aferrari@acacoop.com.ar;Comercio Exterior;Casa Central
+29602569;Adrian Antonio;Franco;afranco@acacoop.com.ar;Insumos;Planta Campana
+25707423;Adrian Daniel;Garcia;agarcia@acacoop.com.ar;Productos Agricolas;Sucursal Rosario
+28779800;Aldo Rafael;Gimenez;agimenez@acacoop.com.ar;CDC;CDC Canals
+28877246;Andres Alejandro;Gomez;agomez@acacoop.com.ar;Insumos;Casa Central
+13819754;Alfredo Ricardo;Gonzalez;agonzalez@acacoop.com.ar;Insumos;Sin Asignación Específica
+27444801;Alejandro Javier;Griglio;agriglio@acacoop.com.ar;CDC;Sucursal Cordoba
+35727766;Agustin Mateo;Gubitosi;agubitosi@acacoop.com.ar;Direccion y Asesoramiento;Casa Central
+21086591;Rolando Alcides;Aguilera;aguilera@acacoop.com.ar;Insumos;Casa Central
+27777452;Amancay;Herrera;aherrera@acacoop.com.ar;Insumos;Pergamino - Suelo Fértil
+26193547;Alejandro Mauricio;Ibarra;aibarra@acacoop.com.ar;CDC;Sucursal Rosario
+11314098;Armando Antonio;Junquera;ajunquera@acacoop.com.ar;Insumos;Criadero Cabildo
+36374544;Andrea Soledad;Lami Ortiz;alamiortiz@acacoop.com.ar;Adm. y Finanzas;Casa Central
+29145236;Alejandro;Bisterfeld;alejandrobisterfeld@hotmail.com;Insumos;Colonia Barón
+21722953;Pablo Rene;Alfieri;alfieri@acacoop.com.ar;Adm. y Finanzas;Sucursal Rosario
+32890280;Adrian;Litterini;alitterini@acacoop.com.ar;Organos de Ejecución Gerencial;Casa Central
+22102879;Alider Rene;Marozzi;amarozzi@acacoop.com.ar;Insumos;Sin Asignación Específica
+11292690;Alicia Susana;Martinez;amartinez@acacoop.com.ar;Adm. y Finanzas;Casa Central
+13776242;Ramon Alberto;Matebe;amatebe@acacoop.com.ar;Insumos;Planta Campana
+20585557;Alejandro Hernan;Modarelli;amodarelli@acacoop.com.ar;Insumos;Planta Campana
+25531394;Analia Veronica;Rodriguez;anarodriguez@acacoop.com.ar;Puertos;Puerto San Lorenzo
+14725671;Andres Nicolas;Ibarra;anibarra@acacoop.com.ar;Insumos;Criadero Pergamino
+23457817;Alejandra Doris;Oliva;aoliva@acacoop.com.ar;CDC;CDC Cañada de Gomez
+31234542;Belen ;Orellana;aorellana@acacoop.com.ar;Mutual;Casa Central
+33443279;Aurelio Agustin;Pagani;apagani@acacoop.com.ar;Adm. y Finanzas;Casa Central
+21636649;Andres Osvaldo;Pereyra;apereyra@acacoop.com.ar;Insumos;Criadero Pergamino
+25832082;Ariel Gustavo;Pinchetti;apinchetti@acacoop.com.ar;CDC;Sucursal Rosario
+12902401;Alejandro Rene;Rodriguez;arodriguez@acacoop.com.ar;Adm. y Finanzas;Casa Central
+31068614;Andres;Rodriguez Haro;arodriguezharo@acacoop.com.ar;Productos Agricolas;Sucursal Rosario
+29749927;Andrea Elizabeth;Schinke;aschinke@acacoop.com.ar;Insumos;CDC Huanguelen
+14445102;Ariel;Scotta;ascotta@acacoop.com.ar;Consejo de Adm. - Mesa Directiva;Casa Central
+25300736;Alejo Eduardo;Soto;asoto@acacoop.com.ar;Productos Agricolas;Sucursal Bahía Blanca
+13882676;Anabel Edith;Suarez;asuarez@acacoop.com.ar;Insumos;Fábrica San Nicolás
+16098588;Alicia Ester;Velazquez;avelazquez@acacoop.com.ar;Comercio Exterior;Casa Central
+20645217;Marcelo Oscar Jesu;Avigliano;avigliano@acacoop.com.ar;Puertos;Puerto San Lorenzo
+23920416;Alejandro Ernesto;Vizzo;avizzo@acacoop.com.ar;Insumos;CDC Eduardo Castex
+22616237;Angelina Carlota;Zanguitu;azanguitu@acacoop.com.ar;Insumos;Sin Asignación Específica
+16064304;Enzo Sergio;Baez;baez@acacoop.com.ar;Comercio Exterior;Sucursal Rosario
+12522749;Roberto Daniel;Banquero;banquero@acacoop.com.ar;Adm. y Finanzas;Sucursal Rosario
+24384280;Mauricio Javier;Barbadillo;barbadillo@acacoop.com.ar;Productos Agricolas;Sucursal Bahía Blanca
+34046075;Bruno;Barrile;bbarrile@acacoop.com.ar;Productos Agricolas;Sucursal Rosario
+32531008;Barbara Laura;Ramos Calabro;bcalabro@acacoop.com.ar;Adm. y Finanzas;Casa Central
+25424638;Pablo Dario;Bernardez Valls;bernardez@acacoop.com.ar;Insumos;Sin Asignación Específica
+26655136;Felix Antonio Jose;Bertea;bertea@acacoop.com.ar;CDC;CDC Oliva
+10052241;Lilian Beatriz;Berti;berti@acacoop.com.ar;Adm. y Finanzas;Sucursal Cordoba
+6608151;Osvaldo Luis Daniel;Bertone;bertone@acacoop.com.ar;Organos de Ejecución Gerencial;Casa Central
+26317311;Sebastian;Bianchi;bianchi@acacoop.com.ar;Productos Agricolas;Sucursal Rosario
+37340137;Bruno;Marelli;bmarelli@acacoop.com.ar;Comercio Exterior;Casa Central
+14289398;Claudio Roberto;Bogo Morales;bogo@acacoop.com.ar;Productos Agricolas;Casa Central
+23978519;German Horacio;Botta;botta@acacoop.com.ar;Productos Agricolas;Sucursal Rosario
+27311049;Pablo Santiago;Breit;breit@acacoop.com.ar;Productos Agricolas;Casa Central
+16795629;Raquel;Brunengo De Blasko;brunengo@acacoop.com.ar;Productos Agricolas;Filial Parana
+30390088;Betiana;Serier;bserier@acacoop.com.ar;Adm. y Finanzas;Sucursal Bahía Blanca
+14803531;Alicia Beatriz;Bustos;bustos@acacoop.com.ar;Adm. y Finanzas;Sucursal Rosario
+16131343;Alejandro;Campillay;campillay@acacoop.com.ar;Mutual;Casa Central
+24496803;Valeria Ianina;Canterino;canterino@acacoop.com.ar;Comercio Exterior;Casa Central
+13276843;Antonio Alberto;Capria;capria@acacoop.com.ar;Insumos;Casa Central
+;Carla Andrea;Giraudo;carla_giraudo@hotmail.com;Comercio Exterior;Casa Central
+5536285;Pedro Eleuterio;Carricart;carricart@acacoop.com.ar;Direccion y Asesoramiento;Casa Central
+12474175;Cesar Gabriel;Casquero;casquero@acacoop.com.ar;Adm. y Finanzas;Sucursal Bahía Blanca
+16939753;Luis Oscar;Castro Blanco;castro@acacoop.com.ar;Adm. y Finanzas;Casa Central
+11159828;Jorge Alberto;Cavalo;cavalo@acacoop.com.ar;Comercio Exterior;Casa Central
+32379277;Carla Ines;Barta;cbarta@acacoop.com.ar;Insumos;Fábrica San Nicolás
+21690661;Carlos Alberto;Belardinelli;cbelardinelli@acacoop.com.ar;CDC;CDC Bragado
+27096088;Juan Cesar;Bouzada;cbouzada@acacoop.com.ar;CDC;CDC Eduardo Castex
+14955739;Claudio Alejandro;Cambareri;ccambareri@acacoop.com.ar;Puertos;Puerto Quequen
+17747659;Cesar Horacio;Data;cdata@acacoop.com.ar;CDC;CDC Eduardo Castex
+24696113;Cristian Rafael;Ceva;ceva@acacoop.com.ar;Adm. y Finanzas;Casa Central
+27919627;Cristian Javier;Fernandez;cfernandez@acacoop.com.ar;Comercio Exterior;Deposito de Miel
+30410521;Cristian Daniel;Godoy;cgodoy@acacoop.com.ar;Adm. y Finanzas;Casa Central
+8311647;Cristian Horacio;Hejler;chejler@acacoop.com.ar;CDC;CDC Villa Bordeu
+28178282;Cesar Daniel;Herrgott;cherrgott@acacoop.com.ar;Organos de Ejecución Gerencial;Sucursal Rosario
+27485900;Maximiliano;Chiaraviglio;chiaraviglio@acacoop.com.ar;Adm. y Finanzas;Sucursal Cordoba
+27634760;Marcelo Nicolas;Cinacchi;cinacchi@acacoop.com.ar;Adm. y Finanzas;Casa Central
+22435925;Cristian Horacio;Jalil;cjalil@acacoop.com.ar;Insumos;Fábrica San Nicolás
+26958857;Carlos Alberto;Koleff;ckoleff@acacoop.com.ar;Adm. y Finanzas;Sucursal Bahía Blanca
+23867028;Walter Anibal;Clemente;clemente@acacoop.com.ar;Adm. y Finanzas;Sucursal Bahía Blanca
+22943351;Claudio Roberto;Marconi;cmarconi@acacoop.com.ar;Insumos;Planta Campana
+29699077;Cecilia Ines;Mate;cmate@acacoop.com.ar;Organos de Ejecución Gerencial;Casa Central
+27777400;Cristian Jorge;Muiños;cmuinos@acacoop.com.ar;Productos Agricolas;Casa Central
+8499796;Ricardo Antonio;Cola;cola@acacoop.com.ar;Productos Agricolas;Filial Pergamino
+11196990;Juan Carlos;Duhart;controca@acacoop.com.ar;Insumos;Criadero Pergamino
+26435235;Gustavo Adolfo;Costa;costa@acacoop.com.ar;Adm. y Finanzas;Casa Central
+20017795;Claudio Gabriel;Ouakim;couakim@acacoop.com.ar;Insumos;Fábrica San Nicolás
+31469349;Carlos Federico;Ripoli;cripoli@acacoop.com.ar;Organos de Ejecución Gerencial;Casa Central
+32897965;Carlos Ariel;Robledo;crobledo@acacoop.com.ar;Productos Agricolas;Sucursal Rosario
+23796596;Cristian Carlos;Rossi;crossi@acacoop.com.ar;Insumos;CDC Oliva
+17665563;Claudio Alberto;Saldias;csaldias@acacoop.com.ar;Insumos;Criadero Pergamino
+27688034;Cristian Alberto;Seijas;cseijas@acacoop.com.ar;Comercio Exterior;Casa Central
+11965351;Carlos Enrique;Daguerre;daguerre@acacoop.com.ar;Adm. y Finanzas;Casa Central
+16690822;Gustavo Alberto;D'Angelo;dangelo@acacoop.com.ar;Adm. y Finanzas;Sucursal Rosario
+25477507;Diego Hernan;D'Astolfo;dastolfo@acacoop.com.ar;Comercio Exterior;Deposito de Miel
+13393014;Daniel Osvaldo;Barace;dbarace@acacoop.com.ar;Puertos;Puerto Quequen
+28775137;Damian Ricardo;Barrionuevo;dbarrionuevo@acacoop.com.ar;Adm. y Finanzas;Sucursal Cordoba
+31447325;Diego Adalberto;Bertholet;dbertholet@acacoop.com.ar;CDC;CDC Las Flores
+11378631;Daniel;Biga;dbiga@acacoop.com.ar;Consejo de Adm. - Mesa Directiva;Casa Central
+28530063;Hector David;Borghi;dborghi@acacoop.com.ar;CDC;CDC Eduardo Castex
+31271788;Damian Roberto;Carreiro;dcarreiro@acacoop.com.ar;Insumos;Planta Campana
+23799949;David Martin;Chiurchiu;dchiurchiu@acacoop.com.ar;CDC;Sucursal Rosario
+31188949;Daniel Omar;Dambrosi;ddambrosi@acacoop.com.ar;CDC;CDC Pilar
+31230100;Damian Horacio;Druetta;ddruetta@acacoop.com.ar;CDC;CDC Concepcion
+14900425;Nora Gabriela;De Aracama;de_aracama@acacoop.com.ar;Direccion y Asesoramiento;Casa Central
+24962600;Paula Lorena;De Gennaro;de_gennaro@acacoop.com.ar;Organos de Ejecución Gerencial;Casa Central
+24754323;Sebastian;Dedominici;dedominici@acacoop.com.ar;Insumos;Casa Central
+17880899;Dario Miguel;Garay;dgaray@acacoop.com.ar;Puertos;Puerto Quequen
+17391371;Daniel;Gavela;dgavela@acacoop.com.ar;Insumos;Criadero Pergamino
+14574303;Alejandro Dario;Gonzalez;dgonzalez@acacoop.com.ar;Puertos;Puerto San Lorenzo
+26932261;Ignacio Gustavo;Diaz Hermelo;dhermelo@acacoop.com.ar;Productos Agricolas;Sucursal Rosario
+18408232;Demian;Diaz;diaz@acacoop.com.ar;Adm. y Finanzas;Sucursal Cordoba
+12541645;Claudio Jorge;Dieguez;dieguez@acacoop.com.ar;CDC;Sucursal Bahía Blanca
+16536524;Marcelo Edgardo;Dimangano;dimangano@acacoop.com.ar;Puertos;Puerto San Lorenzo
+24239918;Dante Osvaldo;Lombardo;dlombardo@acacoop.com.ar;CDC;Casa Central
+22687934;Daniel Oscar;Luque;dluque@acacoop.com.ar;CDC;Casa Central
+33709855;Diego Martin;Malcorra;dmalcorra@acacoop.com.ar;Productos Agricolas;Casa Central
+25416596;Dario Gabriel;Montañana;dmontanana@acacoop.com.ar;Insumos;CDC Concepcion
+16090442;Daniel Angel;Navarro;dnavarro@acacoop.com.ar;Productos Agricolas;Casa Central
+24171635;Jorge Daniel;Dominguez;dominguez@acacoop.com.ar;Adm. y Finanzas;Casa Central
+12924083;Fabian Ramon;Dona;dona@acacoop.com.ar;CDC;CDC Cañada de Gomez
+31207036;Dolores Maria;Padilla;dpadilla@acacoop.com.ar;Insumos;Casa Central
+24829158;Dario Ruben;Rodriguez;drodriguez@acacoop.com.ar;Comercio Exterior;Sucursal Bahía Blanca
+32395058;Diego Hernan;Vazquez;dvazquez@acacoop.com.ar;Productos Agricolas;Casa Central
+33607745;Eduardo Maximiliano;Aragon;earagon@acacoop.com.ar;Organos de Ejecución Gerencial;Casa Central
+12248345;Fernando Julian;Echazarreta;echazarreta@acacoop.com.ar;Organos de Ejecución Gerencial;Casa Central
+31569730;Emiliano Pedro;Dalmaso;edalmaso@acacoop.com.ar;Organos de Ejecución Gerencial;Casa Central
+22387781;Enzo German;Diaz;ediaz@acacoop.com.ar;Puertos;Puerto San Lorenzo
+28914348;Enrique Heraldo;Dossena;edossena@acacoop.com.ar;Puertos;Puerto San Lorenzo
+11619421;Enrique Gerardo O.;Evangelisti;eevangelisti@acacoop.com.ar;Insumos;Criadero Pergamino
+11965762;Eduardo Angel;Fondato;efondato@acacoop.com.ar;CDC;CDC Iriarte
+29204391;Efrain Ramon;Martinez Epele;efrain69me@hotmail.com;Insumos;CDC Gualeguay
+24337716;Esteban Andres;Gamulin;egamulin@acacoop.com.ar;Adm. y Finanzas;Casa Central
+27121341;Evangelina;Guzman;eguzman@acacoop.com.ar;Insumos;CDC Sargento Cabral
+33364739;Emanuel Jesus;Lopez;elopez@acacoop.com.ar;Insumos;Fábrica San Nicolás
+16713292;Eduardo;Macaya;emacaya@acacoop.com.ar;Consejo de Adm. - Mesa Directiva;Casa Central
+29789721;Emiliano;Martinez;emartinez@acacoop.com.ar;Comercio Exterior;Casa Central
+13931188;Edgardo Liberto;Moiron;emoiron@acacoop.com.ar;Insumos;Pergamino
+13174006;Eduardo Oscar;Perez;eperez@acacoop.com.ar;Adm. y Finanzas;Sucursal Rosario
+14104925;Elcides Juan;Raynaudo;eraynaudo@acacoop.com.ar;Puertos;Fca. Rio Tercero
+11259911;Jose Arnoldo;Erhardt;erhardt@acacoop.com.ar;Insumos;Casa Central
+25648760;Sebastian;Errecalde;errecalde@acacoop.com.ar;Productos Agricolas;Sucursal Rosario
+23761966;Mauricio Anibal;Ersetti;ersetti@acacoop.com.ar;Adm. y Finanzas;Sucursal Rosario
+30598849;Estefania;Santini;esantini@acacoop.com.ar;Insumos;Fábrica San Nicolás
+33324703;Ezequiel Jesus;Sbrascini;esbrascini@acacoop.com.ar;CDC;CDC San Genaro
+28674598;Eliana Soledad;Solari Baulies;esolari@acacoop.com.ar;CDC;CDC Wheelwright
+17849364;Hugo Mario Ramon;Di Sipio;esquina_disipio@acacoop.com.ar;CDC;CDC San José de la Esquina
+11678655;Elvira Teresa;Torres;etorres@acacoop.com.ar;Insumos;Fábrica San Nicolás
+24573434;Eugenia Andrea;Vivas;evivas@acacoop.com.ar;Productos Agricolas;Filial Santa Fe
+11950203;Hector Eduardo;Fabre;fabre@acacoop.com.ar;Puertos;Puerto San Lorenzo
+34512221;Fernando Jose;Agosta;fagosta@acacoop.com.ar;CDC;Casa Central
+26986379;Federico;Aguirre;faguirre@acacoop.com.ar;Adm. y Finanzas;Sucursal Rosario
+31280157;Fernando;Arias;farias@acacoop.com.ar;CDC;CDC Hughes
+34685116;Florencia Ruth;Bianciotti;fbianciotti@acacoop.com.ar;CDC;CDC Arroyito
+30686197;Florencia Tamara;Carrascal;fcarrascal@acacoop.com.ar;Productos Agricolas;Sucursal Rosario
+27912425;Hector Fernando;Cocheri;fcocheri@acacoop.com.ar;Productos Agricolas;Planta Los Frentones
+34541715;Franco Abel;Conforti;fconforti@acacoop.com.ar;Productos Agricolas;Sucursal Rosario
+92517094;Ignacio Federico;Diaz;fdiaz@acacoop.com.ar;CDC;CDC Pehuajo
+20034259;Fabian Oscar;Di Leo;fdileo@acacoop.com.ar;Insumos;Criadero Pergamino
+10641201;Carlos Alberto;Ferrari;ferrari@acacoop.com.ar;Productos Agricolas;Casa Central
+11308174;Lidia Mabel;Ferrero De Sanz;ferrero_villegas@acacoop.com.ar;CDC;CDC Villegas
+31565952;Franco Matias;Esperon;fesperon@acacoop.com.ar;Productos Agricolas;Sucursal Rosario
+25676893;Federico Christian;Gerhardinger;fgerhardinger@acacoop.com.ar;Comercio Exterior;Deposito de Miel
+23765693;Ariel Fernando;Gomez;fgomez@acacoop.com.ar;Productos Agricolas;Casa Central
+24586803;Flavio Augusto Ang;Luetto;fluetto@acacoop.com.ar;Insumos;Sucursal Rosario
+20364296;Fernando Leon;Mrozek;fmrozek@acacoop.com.ar;Insumos;CDC Bragado
+25161213;Fernando Manuel;Nistal Gonzalez;fnistal@acacoop.com.ar;CDC;Sucursal Rosario
+10775594;Juan Carlos;Fola;fola@acacoop.com.ar;Direccion y Asesoramiento;Casa Central
+33686573;Federico Jesus;Opezzo;fopezzo@acacoop.com.ar;Adm. y Finanzas;Sucursal Rosario
+30830514;Facundo Jose;Pera;fpera@acacoop.com.ar;Organos de Ejecución Gerencial;Casa Central
+31103548;Fabricio Carlos;Piotto;fpiotto@acacoop.com.ar;Productos Agricolas;Sucursal Rosario
+24883033;Fernando Martin;Reissenauer;freissenauer@acacoop.com.ar;Insumos;CDC San José de la Esquina
+28817070;Facundo Tomas;Rivarola;frivarola@acacoop.com.ar;Adm. y Finanzas;Sucursal Rosario
+28879750;Facundo Martin;Rohlmann;frohlmann@acacoop.com.ar;Insumos;CDC Huanguelen
+20779454;Miguel Angel;Frutos;frutos@acacoop.com.ar;Productos Agricolas;Filial Santa Fe
+24672320;Fernando Adrian;Stuprich;fstuprich@acacoop.com.ar;CDC;CDC Villa del Rosario
+20691498;Flavia Mariel;Toth;ftoth@acacoop.com.ar;Insumos;Sin Asignación Específica
+21963285;Gabriel;Gaillard;gaillard@acacoop.com.ar;Insumos;Casa Central
+27776534;Marcos Gaston;Almiron;galmiron@acacoop.com.ar;CDC;CDC Bragado
+22268271;Santiago Jose;Gamulin;gamulin@acacoop.com.ar;Adm. y Finanzas;Sucursal Rosario
+11544608;Maria Eugenia;Garofoli;garofoli@acacoop.com.ar;Adm. y Finanzas;Sucursal Bahía Blanca
+18068510;Daniel Tomas;Garrahan;garrahan@acacoop.com.ar;Organos de Ejecución Gerencial;Casa Central
+26737615;Gerardo Daniel;Basaluzzo;gbasaluzzo@acacoop.com.ar;Insumos;Casa Central
+28172175;Gustavo Gabriel Emanuel;Bazzi;gbazzi@acacoop.com.ar;CDC;Sucursal Rosario
+26863100;Gerardo Oreste;Cabanay;gcabanay@acacoop.com.ar;CDC;CDC Iriarte
+14936620;Servando Gabriel;Carpenco;gcarpenco@acacoop.com.ar;CDC;CDC Gualeguay
+26304871;German Ceferino;Carrozza;gcarrozza@acacoop.com.ar;Organos de Ejecución Gerencial;Sucursal Rosario
+26251723;Gaston;Coll;gcoll@acacoop.com.ar;Insumos;CDC Las Flores
+30042731;Gustavo Damian;Cufre;gcufre@acacoop.com.ar;Productos Agricolas;Gral. Pico
+30293506;Gabriel Horacio;Dettler;gdettler@acacoop.com.ar;Insumos;Fábrica San Nicolás
+36072992;Gabriel  Alejandro;Digiglio;gdigiglio@acacoop.com.ar;Comercio Exterior;Deposito de Miel
+29410494;Sergio Rodrigo;Gerez;gerez@acacoop.com.ar;Comercio Exterior;Casa Central
+21790561;Daniel Fernando;Gestan;gestan@acacoop.com.ar;Organos de Ejecución Gerencial;Casa Central
+31385032;Gonzalo;Franco;gfranco@acacoop.com.ar;CDC;CDC Wheelwright
+23497138;Gustavo Ramon;Gomez;ggomez@acacoop.com.ar;Insumos;CDC Gualeguay
+11825164;Guillermo Daniel;Gullace;ggullace@acacoop.com.ar;Insumos;Criadero Cabildo
+17757916;Juan Pablo;Ghirardi;ghirardi@acacoop.com.ar;Comercio Exterior;Casa Central
+23407451;Livio Gabino;Giannini;giannini@acacoop.com.ar;Adm. y Finanzas;Casa Central
+24011740;Gisela Marisa;Ibañez;gibanez@acacoop.com.ar;Insumos;Casa Central
+26603235;Juan Manuel;Gigena;gigena@acacoop.com.ar;Productos Agricolas;Sucursal Rosario
+32289614;Guillermo Hernan;Ludueña;gluduena@acacoop.com.ar;Productos Agricolas;Sucursal Rosario
+25695326;Carlos Javier;Gonzalez Maina;gmaina@acacoop.com.ar;Organos de Ejecución Gerencial;Casa Central
+14856034;Luis Alberto;Gomez;gomez@acacoop.com.ar;Adm. y Finanzas;Casa Central
+23013188;Cesar Javier;Gotte;gotte@acacoop.com.ar;Productos Agricolas;Filial Parana
+33317518;Guillermo Esteban;Perez;gperez@acacoop.com.ar;CDC;CDC Gualeguay
+27228899;Diego Alberto;Waimann;gperez@acacoop.com.ar;Insumos;CDC Eduardo Castex
+27556286;Gustavo Daniel;Pulido;gpulido@acacoop.com.ar;Adm. y Finanzas;Casa Central
+22682674;Gabriel Marcelo;Ragni;gragni@acacoop.com.ar;CDC;CDC Wheelwright
+29403062;Guido;Regules;gregules@acacoop.com.ar;Insumos;Criadero Pergamino
+29439209;Gustavo Alberto;Riviere;griviere@acacoop.com.ar;CDC;CDC Villa del Rosario
+32949874;Gabriel Martin;Rodriguez;grodriguez@acacoop.com.ar;Productos Agricolas;Casa Central
+11067390;Rodolfo Ernesto;Gross;gross@acacoop.com.ar;Productos Agricolas;Filial Parana
+32306720;Gustavo Jose;Saburetti;gsaburetti@acacoop.com.ar;Organos de Ejecución Gerencial;Sucursal Rosario
+27193004;Guillermo Felix;Salvatierra;gsalvatierra@acacoop.com.ar;Productos Agricolas;Casa Central
+28085609;Gaston;Sarachu;gsarachu@acacoop.com.ar;CDC;CDC Olavarria
+28580951;Guillermo Sebastian;Ludueña;gsluduena@acacoop.com.ar;Insumos;CDC Oliva
+25751724;Gisela Ivana;Suarez;gsuarez@acacoop.com.ar;Puertos;Puerto San Lorenzo
+23206793;Gabriel Roberto;Torres;gtorres@acacoop.com.ar;CDC;CDC Canals
+8559881;Hector;Guiguez;guiguez@acacoop.com.ar;Adm. y Finanzas;Casa Central
+27738353;German Pablo;Valvecchia;gvalvecchia@acacoop.com.ar;Productos Agricolas;Casa Central
+21883071;Guillermo Raul;Villalba;gvillalba@acacoop.com.ar;Adm. y Finanzas;Casa Central
+27600018;Hugo Hernan;Coronel;hcoronel@acacoop.com.ar;Productos Agricolas;Filial Santa Fe
+13548935;Horacio Ricardo;Duarte;hduarte@acacoop.com.ar;CDC;CDC La Chispa
+29776827;Cristian Hector;Hejler;herranz@acacoop.com.ar;CDC;CDC Villa Bordeu
+24586798;Guillermo Jose;Herranz;herranz@acacoop.com.ar;Productos Agricolas;Sucursal Rosario
+27739027;Hector Abel;Freire;hfreire@acacoop.com.ar;Organos de Ejecución Gerencial;Casa Central
+27585686;Hugo Ariel;Gauna;hgauna@acacoop.com.ar;Puertos;Puertos Vilelas
+28249133;Maria Veronica;Hillar;hillar@acacoop.com.ar;CDC;Sucursal Cordoba
+17399941;Hugo Oscar;Paz;hpaz@acacoop.com.ar;Insumos;Fábrica San Nicolás
+17559649;Hugo Eduardo;Ramirez;hramirez@acacoop.com.ar;Puertos;Puerto San Lorenzo
+16585426;Hector;Tellechea;htellechea@acacoop.com.ar;Puertos;Puerto Quequen
+11930774;Jose Luis;Ibaldi;ibaldi@acacoop.com.ar;Adm. y Finanzas;Sucursal Bahía Blanca
+26230848;Isaac;Gonzalez;igonzalez@acacoop.com.ar;Puertos;Casa Central
+32443866;Ivan Nicolas;Litvinov;ilitvinov@acacoop.com.ar;Insumos;Planta Campana
+33435256;Ivan Javier;Marinsalta Vazquez;imarinsalta@acacoop.com.ar;Adm. y Finanzas;Casa Central
+20378803;Ignacio Daniel;Montenegro;imontenegro@acacoop.com.ar;Insumos;Criadero Pergamino
+20617134;Hector Gerardo;Conde;imprentaaca@acacoop.com.ar;Adm. y Finanzas;Casa Central - Imprenta
+17823726;Sergio Jorge;Noceti;imprentaaca@acacoop.com.ar;Adm. y Finanzas;Casa Central - Imprenta
+10228183;Julio Cesar;Iocca;iocca@acacoop.com.ar;Productos Agricolas;Casa Central
+27729537;Ivana Valeria;Primo;iprimo@acacoop.com.ar;Insumos;CDC Iriarte
+14348330;Francisco Jose;Isaia;isaia@acacoop.com.ar;Adm. y Finanzas;Sucursal Cordoba
+36064867;Ivana;Sanchez;isanchez@acacoop.com.ar;Adm. y Finanzas;Casa Central
+27427442;Iris Soledad;Tamain;itamain@acacoop.com.ar;Adm. y Finanzas;Sucursal Cordoba
+31710105;Juan Ignacio;Alman Bornes;jalmanbornes@acacoop.com.ar;Adm. y Finanzas;Casa Central
+29248846;Juan Ignacio;Andreetta;jandreetta@acacoop.com.ar;Adm. y Finanzas;Casa Central
+27971257;Juan Pablo;Araguez;jaraguez@acacoop.com.ar;Productos Agricolas;Sucursal Rosario
+24025761;Juan Ramon;Arias;jarias@acacoop.com.ar;Insumos;Planta Campana
+20675762;Julio Antonio;Bellofiglio;jbellofiglio@acacoop.com.ar;Insumos;Planta Campana
+27515505;Josefina;Blanco;jblanco@acacoop.com.ar;Productos Agricolas;Sucursal Rosario
+17913837;Juan Carlos;Bottazzi;jbottazzi@acacoop.com.ar;Insumos;CDC Cañada de Gomez
+27050479;Jose Francisco;Bretti Mandarano;jbretti@acacoop.com.ar;Organos de Ejecución Gerencial;Casa Central
+34089856;Jonatan David;Campodonico;jcampodonico@acacoop.com.ar;CDC;CDC Carlos M. Naón
+12193849;Juan Carlos;Corrao;jccorrao@acacoop.com.ar;Productos Agricolas;Filial Junin
+92751388;Juliana Simone;Cicognani;jcicognani@acacoop.com.ar;Direccion y Asesoramiento;Casa Central
+13464602;Julio César;Puentes;jcpuentes@acacoop.com.ar;Insumos;Planta Campana
+20042907;Juan Carlos;Rodriguez;jcrodriguez@acacoop.com.ar;Productos Agricolas;Puerto Quequen
+8428765;Jose Carlos;De Alberti;jdealberti@acacoop.com.ar;CDC;Sin Asignación Específica
+11373970;Juan Carlos;Diaz;jdiaz@acacoop.com.ar;Insumos;Planta Campana
+18350972;Jose Maria;Lecuna;jdiaz@acacoop.com.ar;Insumos;Fábrica San Nicolás
+26456218;Juan Manuel;Drago;jdrago@acacoop.com.ar;Insumos;Casa Central
+30026483;Javier;Fermani;jfermani@acacoop.com.ar;Insumos;Fábrica San Nicolás
+30789151;Juan Luis;Franchini;jfranchini@acacoop.com.ar;CDC;CDC Gualeguaychu
+26411621;Jorge Diego;Gonzalez;jgonzalez@acacoop.com.ar;Adm. y Finanzas;Casa Central
+29948875;Luis Javier;Herrera;jherrera@acacoop.com.ar;Productos Agricolas;Gral. Pico
+30334538;Juan Pablo;Kosancic;jkosancic@acacoop.com.ar;Adm. y Finanzas;Casa Central
+17583500;Javier Omar;Ludueña;jluduena@acacoop.com.ar;CDC;CDC Despeñaderos
+24672197;Juan Pablo;Marcello;jmarcello@acacoop.com.ar;Productos Agricolas;Sucursal Rosario
+32824321;Jonatan Sebastian;Marco;jmarco@acacoop.com.ar;Productos Agricolas;Casa Central
+32619322;Jonatan Exequiel;Medina;jmedina@acacoop.com.ar;Productos Agricolas;Filial Parana
+31435041;Jose Maria;Mendez;jmendez@acacoop.com.ar;CDC;CDC Totoras
+25012653;Javier Edgardo;Mendi;jmendi@acacoop.com.ar;CDC;CDC La Chispa
+22438433;Jose Maria;Monti;jmonti@acacoop.com.ar;Insumos;CDC Cañada de Gomez
+28832609;Juan Pablo;Morales;jmorales@acacoop.com.ar;Productos Agricolas;Sucursal Cordoba
+11923603;Jose Maria;Sosa;jmsosa@acacoop.com.ar;Insumos;Sin Asignación Específica
+27326655;Jorgelina Mariela;Suarez;jmsuarez@acacoop.com.ar;Organos de Ejecución Gerencial;Casa Central
+12719700;Joaquin Eduardo;Navarro;jnavarro@acacoop.com.ar;Adm. y Finanzas;Casa Central
+13659999;Jorge Daniel;Orcaizaguirre;jorcaizaguirre@acacoop.com.ar;Insumos;Planta Campana
+32801963;Juan Pablo;Pace;jpace@acacoop.com.ar;Productos Agricolas;Sucursal Rosario
+27521813;Javier Dario;Picatto;jpicatto@acacoop.com.ar;CDC;CDC Villa del Rosario
+24389595;Claudio Julio;Ponkosky;jponkosky@acacoop.com.ar;CDC;CDC Winifreda
+25599143;Jorge Osvaldo;Recalde;jrecalde@acacoop.com.ar;CDC;CDC Gualeguay
+30883338;Juan Pablo;Rey;jrey@acacoop.com.ar;Productos Agricolas;Sucursal Bahía Blanca
+22283405;Javier Marcos;Rodriguez;jrodriguez@acacoop.com.ar;Puertos;Puerto San Lorenzo
+16535106;Jose Luis;Ronchetti;jronchetti@acacoop.com.ar;Insumos;Fábrica San Nicolás
+24732091;Jorge Alberto;Rosselli Scilla;jrosselli@acacoop.com.ar;Insumos;CDC Olavarria
+16370121;Juan Pablo;Serre;jserre@acacoop.com.ar;Puertos;Puerto Quequen
+12244869;Jose Alberto;Suarez;jsuarez@acacoop.com.ar;Productos Agricolas;Sucursal Cordoba
+34109714;Juan Pablo;Taricco;jtaricco@acacoop.com.ar;CDC;Sucursal Rosario
+16556406;Alberto Jose;Tripodi;jtripodi@acacoop.com.ar;Insumos;Planta Campana
+27498534;Juan Ignacio;Vallet;jvallet@acacoop.com.ar;Productos Agricolas;Sucursal Rosario
+31610308;Juan Pablo;Vera Singh;jvera@acacoop.com.ar;Productos Agricolas;Sucursal Rosario
+31302771;Joaquin;Vigna Hernandez;jvigna@acacoop.com.ar;CDC;CDC La Chispa
+33576355;Juan Emmanuel;Vomero;jvomero@acacoop.com.ar;Productos Agricolas;Puerto Quequen
+22436079;Karina Fabiana;Sosa;ksosa@acacoop.com.ar;Insumos;Planta Campana
+28024056;Roberto Carlos;Laite;laite@acacoop.com.ar;Productos Agricolas;Sucursal Rosario
+30789328;Luis Guillermo;Alvarez;lalvarez@acacoop.com.ar;CDC;Casa Central
+27183992;Lucas Damian;Amboage;lamboage@acacoop.com.ar;Organos de Ejecución Gerencial;Casa Central
+11046300;Guillermo Aldo;Latorre;latorre@acacoop.com.ar;Productos Agricolas;Casa Central
+29035045;Luciano Oscar;Bajo;lbajo@acacoop.com.ar;CDC;CDC Rufino
+25582905;Leopoldo Gaston;Bertero;lbertero@acacoop.com.ar;CDC;CDC Villegas
+28668143;Leonardo;Cabrera;lcabrera@acacoop.com.ar;Insumos;Criadero Pergamino
+31069061;Laura;Cambursano;lcambursano@acacoop.com.ar;Insumos;Sucursal Rosario
+28496095;Leonel Oscar;Chinellato;lchinellato@acacoop.com.ar;Puertos;Puerto San Lorenzo
+31313644;Luis Esteban;Cimini;lcimini@acacoop.com.ar;CDC;Sucursal Cordoba
+25078162;Lucas Octavio;Degiovanni;ldegiovanni@acacoop.com.ar;Productos Agricolas;Sucursal Cordoba
+26085051;Leandro Ariel;Del Rio;ldelrio@acacoop.com.ar;CDC;Sucursal Bahía Blanca
+28433259;Lucrecia;De Villa;ldevilla@acacoop.com.ar;CDC;Casa Central
+31061924;Leandro Gabriel;Di Giovanni;ldigiovanni@acacoop.com.ar;Comercio Exterior;Casa Central
+16212569;Marcelo Andres;Leal;leal@acacoop.com.ar;Organos de Ejecución Gerencial;Casa Central
+14976725;Maria Monica;Leonardo;leonardo@acacoop.com.ar;Comercio Exterior;Casa Central
+17957657;Liliana Noemi;Fontanillo;lfontanillo@acacoop.com.ar;CDC;CDC COLONIA BARON
+22200006;Lucas Miguel;Gattiker;lgattiker@acacoop.com.ar;Insumos;Planta Campana
+29097955;Lucrecia Maria;Giuliani;lgiuliani@acacoop.com.ar;Comercio Exterior;Casa Central
+22296631;Leandro Daniel;Gonzalez;lgonzalez@acacoop.com.ar;Comercio Exterior;Sucursal Rosario
+28547826;Luciano Guido;Scaiano;lgscaiano@acacoop.com.ar;Adm. y Finanzas;Casa Central
+37278666;Lucia Emilia;Gualdieri;lgualdieri@acacoop.com.ar;Adm. y Finanzas;Casa Central
+29550609;Leandro Gaston;Kain;lkain@acacoop.com.ar;Productos Agricolas;Filial Tres Arroyos
+32825149;Lucas Sebastian;Ledesma;lledesma@acacoop.com.ar;Comercio Exterior;Deposito de Miel
+22576781;Claudia Marisol;Llobet;llobet@acacoop.com.ar;Insumos;Criadero Pergamino
+28987391;Leticia Viviana;Lombardo Gonzalez;llombardo@acacoop.com.ar;Insumos;Casa Central
+25537162;Lorena Maricel;Maidana;lmaidana@acacoop.com.ar;Insumos;Criadero Pergamino
+26045037;Lucas;Maritano;lmaritano@acacoop.com.ar;CDC;Sucursal Rosario
+31341921;Lorena Del Valle;Maydana;lmaydana@acacoop.com.ar;CDC;CDC Villa del Rosario
+14893684;Jorge Alberto;Arrigoni;lmayor@acacoop.com.ar;CDC;Planta Rio III
+27174890;Roberto Leonel;Mayor;lmayor@acacoop.com.ar;CDC;Piedritas
+27965225;Leonel Alexis;Migliorelli;lmigliorelli@acacoop.com.ar;Productos Agricolas;Sucursal Rosario
+33728069;Leandro Gabriel;Novo;lnovo@acacoop.com.ar;Adm. y Finanzas;Sucursal Cordoba
+10898489;Carlos Alberto;Lopez Rieu;lopez@acacoop.com.ar;Productos Agricolas;Casa Central
+25578233;Sergio Hernan;Lopez;lopezsergio@acacoop.com.ar;Insumos;Casa Central
+22014481;Leandro Ignacio;Ortis;lortis@acacoop.com.ar;Insumos;Criadero Cabildo
+20820633;Karina Beatriz;Saldias;lortis@acacoop.com.ar;Insumos;Criadero Pergamino
+33501685;Leandro Marcelo;Paulus;lpaulus@acacoop.com.ar;Productos Agricolas;Sucursal Cordoba
+13461849;Liliana Elvira;Pobor;lpobor@acacoop.com.ar;Puertos;Fca. Rio Tercero
+12132648;Luis Alcides;Quiroz;lquiroz@acacoop.com.ar;Puertos;Puerto San Lorenzo
+30317419;Lucas Martin;Salas;lsalas@acacoop.com.ar;Insumos;Criadero Pergamino
+31009641;Leandro Diego;Scaiano;lscaiano@acacoop.com.ar;Adm. y Finanzas;Casa Central
+21504807;Luciano Jose;Sosa;lsosa@acacoop.com.ar;Insumos;Sin Asignación Específica
+32084834;Leonardo Daniel;Tisera;ltisera@acacoop.com.ar;CDC;CDC Oliva
+31556860;Laura Vanessa;Cabrera;lvcabrera@acacoop.com.ar;Adm. y Finanzas;Sucursal Cordoba
+32150133;Marcos;Acuña Heredia;macuna@acacoop.com.ar;Productos Agricolas;Sucursal Rosario
+20745301;Marcelo Adrian;Albornoz;malbornoz@acacoop.com.ar;Adm. y Finanzas;Sucursal Rosario
+10983784;Guillermo Lucio;Malcorra;malcorra@acacoop.com.ar;Productos Agricolas;Casa Central
+31941834;Marilina;Alimenti;malimenti@acacoop.com.ar;Adm. y Finanzas;Sucursal Bahía Blanca
+14970568;Aquiles Eliseo;Mantovani;mantovani@acacoop.com.ar;Productos Agricolas;Filial Parana
+13980213;Sergio Omar;Marco;marco@acacoop.com.ar;Productos Agricolas;Casa Central
+10664787;Rodolfo Jose;Maresca;maresca@acacoop.com.ar;Direccion y Asesoramiento;Casa Central
+28172157;Marcos Antonio;Rodriguez;marodriguez@acacoop.com.ar;CDC;CDC Pergamino
+13100340;Miguel Angel;Artigas;martigas@acacoop.com.ar;Insumos;Criadero Pergamino
+10988910;Gaston Angel;Martin;martin@acacoop.com.ar;Adm. y Finanzas;Sucursal Rosario
+11190963;Juan Carlos;Martinez;martinez@acacoop.com.ar;Adm. y Finanzas;Sucursal Cordoba
+12434710;Oscar Alejandro;Masague;masague@acacoop.com.ar;Insumos;Criadero Pergamino
+12522241;Eduardo Omar;Mataffo;mataffo@acacoop.com.ar;Productos Agricolas;Sucursal Rosario
+24953668;Mauro Alberto;Lopez De Maturana;maturana@acacoop.com.ar;Productos Agricolas;Filial Santa Fe
+8531372;Angel Fidel;Rodriguez Maza;maza@acacoop.com.ar;Productos Agricolas;Sucursal Cordoba
+29542034;Matias;Bancalari Sola;mbancalarisola@acacoop.com.ar;Insumos;Casa Central
+32306702;Maria Eugenia;Belardinelli;mbelardinelli@acacoop.com.ar;CDC;CDC Bragado
+30601984;Melisa Gabriela;Bergia;mbergia@acacoop.com.ar;CDC;CDC Oliva
+30379215;Mariana;Bistoletti;mbistoletti@acacoop.com.ar;Comercio Exterior;Deposito de Miel
+31384890;Matias Ariel;Calderai;mcalderai@acacoop.com.ar;Insumos;CDC San Genaro
+30830843;Martin;Caligiuri;mcaligiuri@acacoop.com.ar;Insumos;CDC Bragado
+37932370;Maria Milagros;Cardenas;mcardenas@acacoop.com.ar;Adm. y Finanzas;Casa Central
+22502791;Maria Patricia;Carini;mcarini@acacoop.com.ar;Direccion y Asesoramiento;Casa Central
+21604124;Daniel Martin Ivan;Caro;mcaro@acacoop.com.ar;Puertos;Puerto Quequen
+29151595;Matias Eduardo;Cartier;mcartier@acacoop.com.ar;Adm. y Finanzas;Casa Central
+30561969;Matias;Charmandarian;mcharmandarian@acacoop.com.ar;Insumos;Fábrica San Nicolás
+31735820;Mateo Pascual;Cittadini;mcittadini@acacoop.com.ar;Insumos;CDC Oliva
+24194192;Marcelo Alejandro;Colli;mcolli@acacoop.com.ar;CDC;CDC San Genaro
+28253540;Mariano Alejandro;Colon;mcolon@acacoop.com.ar;Organos de Ejecución Gerencial;Casa Central
+24558964;Martin Gabriel;Coppari;mcoppari@acacoop.com.ar;CDC;Oficina Cruz Alta
+33149400;Maximiliano Damian;Cordero;mcordero@acacoop.com.ar;Adm. y Finanzas;Casa Central
+25620892;Mauro Alberto;Correnti;mcorrenti@acacoop.com.ar;Puertos;Planta Selva
+23825028;Marcos Antonio;Cortez;mcortez@acacoop.com.ar;Productos Agricolas;Sucursal Cordoba
+32348252;Maximiliano;Cuesta;mcuesta@acacoop.com.ar;CDC;CDC Rufino
+30831952;Maria Virginia;Datti Cogoi;mdatti@acacoop.com.ar;Adm. y Finanzas;Sucursal Rosario
+29493255;Maria Soledad;De Angelo;mdeangelo@acacoop.com.ar;CDC;CDC Sargento Cabral
+21774093;Marisa Lujan;Della Maddalena;mdellamaddalena@acacoop.com.ar;Insumos;Criadero Pergamino
+20244853;Monica Ines;Devic;mdevic@acacoop.com.ar;Productos Agricolas;Filial Santa Fe
+27266219;Maximiliano Jesus Maria;De Zan;mdezan@acacoop.com.ar;Insumos;CDC Gualeguay
+30275546;Matias Florencio A;Dominguez;mdominguez@acacoop.com.ar;Comercio Exterior;Casa Central
+34755427;Matias;Dura;mdura@acacoop.com.ar;Organos de Ejecución Gerencial;Casa Central
+32648053;Matias Emanuel;Gomez;megomez@acacoop.com.ar;CDC;CDC Cañada de Gomez
+17594472;Lilian;Mengarelli;mengarelli@acacoop.com.ar;Adm. y Finanzas;Sucursal Bahía Blanca
+12130475;Horacio Alejandro;Messi;messi@acacoop.com.ar;Productos Agricolas;Puerto Quequen
+22095733;Marcelo Ignacio;Facciano;mfacciano@acacoop.com.ar;CDC;CDC San Francisco
+28433094;Mariano Federico;Fava;mfava@acacoop.com.ar;Insumos;Sin Asignación Específica
+30744802;Mariana;Fernandez De La Iglesia;mfernandez@acacoop.com.ar;Insumos;Casa Central
+16273058;Marisa Ethel;Freilij;mfreilij@acacoop.com.ar;Insumos;Planta Campana
+23351945;Marcelo Javier;Garcia;mgarcia@acacoop.com.ar;Comercio Exterior;Casa Central
+32553034;Magali Vanina;Gette;mgette@acacoop.com.ar;Adm. y Finanzas;Casa Central
+11678517;Marta Graciela;Giacoia;mgiacoia@acacoop.com.ar;Insumos;Fábrica San Nicolás
+29311856;Maria Florencia;Gismondi;mgismondi@acacoop.com.ar;Adm. y Finanzas;Sucursal Rosario
+28671703;Maria Ana;Gobelli;mgobelli@acacoop.com.ar;CDC;CDC Villegas
+29037466;Mario Daniel;Gomez;mgomez@acacoop.com.ar;Productos Agricolas;Filial Parana
+17105085;Maria Cristina;Grimaldi;mgrimaldi@acacoop.com.ar;CDC;CDC Sargento Cabral
+26456333;Martin Sebastian;Gutierrez;mgutierrez@acacoop.com.ar;Productos Agricolas;Sucursal Bahía Blanca
+30960705;Maria Jose;Rodriguez;mjrodriguez@acacoop.com.ar;CDC;CDC Pehuajo
+10773782;Mercedes Marta;Jurich;mjurich@acacoop.com.ar;Productos Agricolas;Sucursal Cordoba
+26184639;Mauricio;Lell;mlell@acacoop.com.ar;CDC;Sucursal Rosario
+27818426;Mariela Andrea;Lopez;mlopez@acacoop.com.ar;Comercio Exterior;Deposito de Miel
+25288576;Maria Elena;Loss;mloss@acacoop.com.ar;Insumos;Planta Campana
+11798331;Mario Alberto;Marchi;mmarchi@acacoop.com.ar;Productos Agricolas;Filial Pergamino
+31809639;Maria Fernanda;Mariño;mmarino@acacoop.com.ar;Adm. y Finanzas;Filial Tucuman
+28030960;Marina Soledad;Fernandez Martino;mmartino@acacoop.com.ar;Comercio Exterior;Casa Central
+27943189;Martin Vicente Jos;Mastrangelo;mmastrangelo@acacoop.com.ar;Productos Agricolas;Filial Junin
+27291793;Mauro Sebastian;Meier;mmeier@acacoop.com.ar;Insumos;Criadero Pergamino
+34717987;Marcelo Ignacio;Mendoza Negro;mmendoza@acacoop.com.ar;Adm. y Finanzas;Casa Central
+28652233;Mauro Ramiro;Murua;mmurua@acacoop.com.ar;Productos Agricolas;Sucursal Cordoba
+35111745;Mariano Nahuel;Gonzalez;mngonzalez@acacoop.com.ar;Organos de Ejecución Gerencial;Casa Central
+38254060;Marcos Agustin;Nostro;mnostro@acacoop.com.ar;Direccion y Asesoramiento;Casa Central
+28961567;Maria Laura;Ojeda;mojeda@acacoop.com.ar;Productos Agricolas;Filial Parana
+12558816;Juan Eduardo;Molina;molina@acacoop.com.ar;Direccion y Asesoramiento;Casa Central
+29423351;Marcos Javier;Otero;motero@acacoop.com.ar;CDC;CDC Serrano
+20579680;Marcelo Fabian;Paladino;mpaladino@acacoop.com.ar;CDC;CDC Villegas
+16064860;Mirta Adriana;Pecorelli;mpecorelli@acacoop.com.ar;Adm. y Finanzas;Casa Central
+28626562;Mario Alberto;Peppino;mpeppino@acacoop.com.ar;CDC;CDC Tio Pujio
+27179783;Maria Luz;Porto;mporto@acacoop.com.ar;Comercio Exterior;Casa Central
+22490519;Dario Marcelo;Pratdessus;mpratdessus@acacoop.com.ar;Productos Agricolas;Sucursal Bahía Blanca
+30924836;Melina Victoria;Priano;mpriano@acacoop.com.ar;Insumos;Casa Central
+27120149;Mariela Mabel;Raffo;mraffo@acacoop.com.ar;Direccion y Asesoramiento;Casa Central
+31205053;Matias Ezequiel;Ramunno;mramunno@acacoop.com.ar;Productos Agricolas;Sucursal Rosario
+29618028;Matias Ezequiel;Raparo;mraparo@acacoop.com.ar;CDC;CDC La Chispa
+285619131;Mauricio Carlos Alberto;Rey;mrey@acacoop.com.ar;CDC;CDC Carlos M. Naón
+13643423;Mario Hugo;Rodriguez;mrodriguez@acacoop.com.ar;Insumos;Criadero Pergamino
+17519290;Marcelo Jesus;Rosano;mrosano@acacoop.com.ar;Puertos;Puerto San Lorenzo
+28060335;Mauricio;Rozas;mrozas@acacoop.com.ar;Insumos;Criadero Pergamino
+27707567;Martin;Santome;msantome@acacoop.com.ar;Adm. y Finanzas;Casa Central
+34172260;Maria Luz;Sanz;msanz@acacoop.com.ar;CDC;CDC Pehuajo
+36829464;Mauro;Scaiano;mscaiano@acacoop.com.ar;Adm. y Finanzas;Casa Central
+32271940;Melisa Ailin;Schwerdt;mschwerdt@acacoop.com.ar;Adm. y Finanzas;Sucursal Bahía Blanca
+24311635;Marisa Fernanda;Soneira;msoneira@acacoop.com.ar;Adm. y Finanzas;Sucursal Rosario
+31153191;Melisa Victoria;Spadaro;mspadaro@acacoop.com.ar;Insumos;Fábrica San Nicolás
+25355902;Mariano Enrique;Tamburini;mtamburini@acacoop.com.ar;Insumos;Planta Campana
+17368285;Gabriela Viviana;Muscio;muscio@acacoop.com.ar;Adm. y Finanzas;Sucursal Rosario
+11803994;Juan Carlos;Musso;musso@acacoop.com.ar;Insumos;Planta Campana
+26268084;Marcelo Pablo;Valerio;mvalerio@acacoop.com.ar;Insumos;Planta Campana
+25237901;Martin Dario;Venancio;mvenancio@acacoop.com.ar;Organos de Ejecución Gerencial;Casa Central
+24344054;Marilina;Zanguitu;mzanguitu@acacoop.com.ar;CDC;Sin Asignación Específica
+22447884;Diego Fernando;Nanni;nanni@acacoop.com.ar;Organos de Ejecución Gerencial;Casa Central
+29572223;Natalia Beatriz;Aristemuño;naristemuno@acacoop.com.ar;Productos Agricolas;Filial Tres Arroyos
+34752825;Noelia Belen;Bessaguet;nbessaguet@acacoop.com.ar;Insumos;Fábrica San Nicolás
+34593028;Natalia;Brutti Paolucci;nbrutti@acacoop.com.ar;Comercio Exterior;Casa Central
+31593692;Noelia Soledad;Calvo;ncalvo@acacoop.com.ar;CDC;Sucursal Cordoba
+30394008;Nicolas;Carusso;ncarusso@acacoop.com.ar;Comercio Exterior;Casa Central
+34612308;Natan;Braida Fernandez;nfernandez@acacoop.com.ar;Adm. y Finanzas;Casa Central
+33155336;Nancy Valeria;Gonzalez;ngonzalez@acacoop.com.ar;Organos de Ejecución Gerencial;Casa Central
+21076176;Natalia Romina;Grinevald;ngrinevald@acacoop.com.ar;Puertos;Puerto San Lorenzo
+92344860;Pablo;Nistal;nistal@acacoop.com.ar;Adm. y Finanzas;Sucursal Rosario
+29516475;Nicolas Daniel;Maggi;nmaggi@acacoop.com.ar;Productos Agricolas;Sucursal Rosario
+34540725;Nicolas Joaquin;Maldonado;nmaldonado@acacoop.com.ar;Productos Agricolas;Sucursal Rosario
+29187747;Nicolas;Marquez;nmarquez@acacoop.com.ar;Productos Agricolas;Casa Central
+29443452;Nicolas Anibal;Menotti;nmenotti@acacoop.com.ar;Insumos;CDC Totoras
+13255413;Nora;Notaro;nnotaro@acacoop.com.ar;Adm. y Finanzas;Sucursal Rosario
+35994926;Nicolas;Osellame;nosellame@acacoop.com.ar;Comercio Exterior;Casa Central
+16076547;Adrian Claudio;Notaro;notaro@acacoop.com.ar;Adm. y Finanzas;Sucursal Rosario
+25976940;Natalia Paola;Pavan;npavan@acacoop.com.ar;Productos Agricolas;Sucursal Rosario
+12210939;Nestor Reinaldo;Rodoni;nrodoni@acacoop.com.ar;Insumos;Planta Campana
+23363686;Norberto Miguel;Sarlinga;nsarlinga@acacoop.com.ar;Insumos;Planta Campana
+17241824;Norma Beatriz;Torres;ntorres@acacoop.com.ar;Insumos;Fábrica San Nicolás
+29311725;Nicolas Alberto;Viglianco;nviglianco@acacoop.com.ar;CDC;CDC Cañada de Gomez
+8384528;Segundo Marcial;Alarcon;ofigueroa@acacoop.com.ar;CDC;CDC Pergamino
+30512886;Ruben Oscar;Figueroa;ofigueroa@acacoop.com.ar;Insumos;Planta Campana
+28281666;Omar Alejandro;Fridel;ofridel@acacoop.com.ar;Comercio Exterior;Casa Central
+11123865;Osvaldo Raul;Garcia Arrouy;ogarcia@acacoop.com.ar;Direccion y Asesoramiento;Casa Central
+16081837;Claudio Milton;Oldano;oldano@acacoop.com.ar;Comercio Exterior;Casa Central
+11337391;Nelso Antonio;Colombo;oliva_colombo@acacoop.com.ar;CDC;CDC Oliva
+13913168;Hector Raul;Donato;oliva_donato@acacoop.com.ar;CDC;CDC Oliva
+14697452;Oscar Adolfo;Marques;omarques@acacoop.com.ar;Insumos;Criadero Pergamino
+10748612;Oscar;Muzi;omuzi@acacoop.com.ar;Consejo de Adm. - Mesa Directiva;Casa Central
+20536664;Marcela Andrea;Ordoñez;ordonez@acacoop.com.ar;Direccion y Asesoramiento;Casa Central
+26222046;Oscar Basilio;Alvarez;oscaralvarez@hotmail.com;Insumos;CDC Carlos M. Naón
+27329831;Cristian Ariel;Oviedo;oviedo@acacoop.com.ar;CDC;Casa Central
+28407021;Leonardo Javier;Palopoli;palopoli@acacoop.com.ar;Productos Agricolas;Sucursal Rosario
+29633766;Andrea Paola;Arias;parias@acacoop.com.ar;Comercio Exterior;Deposito de Miel
+30845508;Pablo Javier;Assales;passales@acacoop.com.ar;Productos Agricolas;Sucursal Cordoba
+29001122;Martin Ariel;Pavarin;pavarin@acacoop.com.ar;Adm. y Finanzas;Sucursal Rosario
+27479201;Pablo Daniel;Blanco;pblanco@acacoop.com.ar;Direccion y Asesoramiento;Casa Central
+28076816;Patricia Mariel;Bonfiglio;pbonfiglio@acacoop.com.ar;Direccion y Asesoramiento;Casa Central
+28172130;Pablo Andres;Carullo;pcarullo@acacoop.com.ar;Insumos;CDC Cañada de Gomez
+29520782;Pablo Daniel;Contreras;pcontreras@acacoop.com.ar;CDC;CDC Canals
+12258980;Ana Maria;Pecorelli;pecorelli@acacoop.com.ar;Organos de Ejecución Gerencial;Casa Central
+13601393;Fernando Daniel;Pensa;pensa@acacoop.com.ar;Puertos;Puerto Quequen
+13586768;Aurelia Claudia;Perez;perez@acacoop.com.ar;Adm. y Finanzas;Sucursal Cordoba
+12381024;Jorge Alberto;Perig;perig@acacoop.com.ar;Puertos;Puerto San Lorenzo
+12568466;Oscar Osvaldo;Perino;perino@acacoop.com.ar;Productos Agricolas;Puerto Quequen
+14081602;Eduardo Carlos;Pesce;pesce@acacoop.com.ar;Productos Agricolas;Sucursal Rosario
+28020571;Pablo Sebastian;Etcheverry;petcheverry@acacoop.com.ar;Insumos;CDC Laboulaye
+27020651;Pablo Alberto;Galeano;pgaleano@acacoop.com.ar;Insumos;Fábrica San Nicolás
+28101420;Pablo Andres;Granados;pgranados@acacoop.com.ar;Adm. y Finanzas;Sucursal Rosario
+31087577;Pablo Valentin;Gutierrez;pgutierrez@acacoop.com.ar;Productos Agricolas;Gral. Pico
+20598117;Patricia Nancy;Huerta;phuerta@acacoop.com.ar;Comercio Exterior;Casa Central
+24672188;Pablo Jesus;Ingani;pingani@acacoop.com.ar;Productos Agricolas;Sucursal Rosario
+10630135;Juan Carlos;Piotto;piotto@acacoop.com.ar;Puertos;Puerto San Lorenzo
+14440823;Adrian;Pizzo;pizzo@acacoop.com.ar;Puertos;Puerto San Lorenzo
+24897888;Pedro Sebastian;Latini;platini@acacoop.com.ar;Adm. y Finanzas;Casa Central
+13537545;Nori Graciela;Pleitavino;pleitavino@acacoop.com.ar;Productos Agricolas;Sucursal Cordoba
+8290780;Anibal Oscar;Plenza;plenza@acacoop.com.ar;Adm. y Finanzas;Sucursal Rosario
+21023554;Patricia Gabriela;Levy;plevy@acacoop.com.ar;Insumos;Pergamino - Suelo Fértil
+29851462;Pablo David;Maffei;pmaffei@acacoop.com.ar;CDC;CDC Pilar
+17520005;Pablo Guillermo;Martorelli;pmartorelli@acacoop.com.ar;Puertos;Puerto Quequen
+28335400;Pablo;Moretti;pmoretti@acacoop.com.ar;Puertos;Puerto San Lorenzo
+25171137;Pablo Jose;Perretta;pperretta@acacoop.com.ar;Adm. y Finanzas;Sucursal Rosario
+29649004;Pablo Sebastian;Piccini;ppiccini@acacoop.com.ar;Productos Agricolas;Gral. Pico
+21570861;Mauricio Sebastian;Pre;pre@acacoop.com.ar;Organos de Ejecución Gerencial;Casa Central
+23525841;Marco Eugenio;Prenna;prenna@acacoop.com.ar;Insumos;Casa Central
+21488258;Pedro Oscar;Rodriguez;prodriguez@acacoop.com.ar;Insumos;Fábrica San Nicolás
+25197638;Pablo Martin;Sanchez Gallo;psanchezgallo@acacoop.com.ar;Insumos;Filial Santa Fe
+23881647;Pablo;Scardaoni;pscardaoni@acacoop.com.ar;Insumos;Casa Central
+29945447;Paulo Daniel;Schiavi;pschiavi@acacoop.com.ar;CDC;CDC Tio Pujio
+30563937;Pablo Martin;Spektor;pspektor@acacoop.com.ar;Productos Agricolas;Casa Central
+24524312;Pablo Laureano;Trotta;ptrotta@acacoop.com.ar;Insumos;Criadero Pergamino
+92207051;Ruben Waldemar;Pudiza Thievent;pudiza@acacoop.com.ar;Adm. y Finanzas;Casa Central
+33328440;Pablo Anibal;Valdez;pvaldez@acacoop.com.ar;CDC;CDC Olavarria
+24210902;Cristian Pablo;Vaz;pvaz@acacoop.com.ar;Insumos;Fábrica San Nicolás
+33862259;Pablo Javier;Vilariño;pvilarino@acacoop.com.ar;Organos de Ejecución Gerencial;Casa Central
+33070830;Pedro Pablo;Vinzia;pvinzia@acacoop.com.ar;Adm. y Finanzas;Sucursal Rosario
+31653585;Ramiro;Aguilera;raguilera@acacoop.com.ar;CDC;CDC Hughes
+14345740;Roberto Antonio;Repetto;rarepetto@fibertel.com.ar;CDC;Pergamino
+12857793;Roberto;Barreiro;rbarreiro@acacoop.com.ar;CDC;CDC Pergamino
+25140199;Roberto Andres;Beaurain;rbeaurain@acacoop.com.ar;Insumos;Planta Campana
+26692947;Roman Carlos;Campero;rcampero@acacoop.com.ar;Adm. y Finanzas;Sucursal Rosario
+32170197;Ricardo Nestor;Campos;rcampos@acacoop.com.ar;CDC;CDC Las Flores
+16004234;Oscar Antonio;Chavez;rchavez@acacoop.com.ar;Insumos;Planta Campana
+12512660;Ruben Ernesto;Chavez;rchavez@acacoop.com.ar;CDC;CDC Bragado
+16595205;Roberto Adrian;Chunco;rchunco@acacoop.com.ar;Insumos;Fábrica San Nicolás
+24889840;Roberto Carlos;Del Gobbo;rdelgobbo@acacoop.com.ar;Insumos;Criadero Cabildo
+16925619;Sergio Gustavo;Arizmendi;rdeseato@acacoop.com.ar;Puertos;Puerto Quequen
+13715254;Ramon Eduardo;Deseato;rdeseato@acacoop.com.ar;Puertos;Puerto San Lorenzo
+17904879;Daniel Eduardo;Reinaud;reinaud@acacoop.com.ar;Insumos;Planta Campana
+13524295;Raul Horacio;Falappa;rfalappa@acacoop.com.ar;Insumos;Ferticentro - Bahía Blanca
+30057222;Romina Soledad;Foglia;rfoglia@acacoop.com.ar;CDC;CDC San José de la Esquina
+12032416;Ricardo Jose;Fontana;rfontana@acacoop.com.ar;Productos Agricolas;Filial Pergamino
+35792440;Rodrigo Nicolas;Furfaro;rfurfaro@acacoop.com.ar;Productos Agricolas;Casa Central
+8307879;Ruben Aldo;Garay;rgaray@acacoop.com.ar;Puertos;Fca. Rio Tercero
+17337986;Ruben Omar;Gerbaudo;rgerbaudo@acacoop.com.ar;CDC;CDC Eduardo Castex
+37061292;Rafael;Gerchunoff;rgerchunoff@acacoop.com.ar;Insumos;Casa Central
+8502889;Osvaldo Oscar;Rico;rico@acacoop.com.ar;Puertos;Puerto Quequen
+23848319;Cristian;Rivadeneyra;rivadeneyra@acacoop.com.ar;Adm. y Finanzas;Sucursal Rosario
+8444615;Fernando Angel;Rivero;rivero@acacoop.com.ar;Adm. y Finanzas;Sucursal Rosario
+34376044;Rodrigo Jose;Mendez;rjmendez@acacoop.com.ar;Comercio Exterior;Casa Central
+13994876;Ricardo Antonio;Medina;rmedina@acacoop.com.ar;Insumos;Planta Campana
+21739036;Leonardo Gustavo;Rodriguez;rodriguez@acacoop.com.ar;Productos Agricolas;Sucursal Bahía Blanca
+14204593;Eduardo Jose;Rosli;rosli@acacoop.com.ar;Comercio Exterior;Casa Central
+22262120;Roberto Horacio;Rotondaro;rotondaro@acacoop.com.ar;Insumos;Pergamino - Suelo Fértil
+24221838;Roberto Carlos;Piatti;rpiatti@acacoop.com.ar;CDC;CDC Las Rosas
+27623945;Rodrigo;Poveda;rpoveda@acacoop.com.ar;Organos de Ejecución Gerencial;Casa Central
+16209937;Dionisio Roberto;Renterias;rrenterias@acacoop.com.ar;Puertos;Puerto Quequen
+14752381;Roberto Daniel;Riva;rriva@acacoop.com.ar;Comercio Exterior;Deposito de Miel
+28580954;Roman Dario Jesus;Seia;rseia@acacoop.com.ar;Insumos;CDC Oliva
+17544761;Raul Alfredo;Sevega;rsevega@acacoop.com.ar;Insumos;Criadero Pergamino
+30556308;Roberto Emiliano;Sucarrat;rsucarrat@acacoop.com.ar;Adm. y Finanzas;Casa Central
+16127575;Ruben;Timpano;rtimpano@acacoop.com.ar;CDC;CDC Cañada de Gomez
+11088900;Mario Arturo;Rubino;rubino@acacoop.com.ar;Organos de Ejecución Gerencial;Casa Central
+8011511;Ruben Enrique;Valvecchia;rvalvecchia@acacoop.com.ar;Comercio Exterior;Casa Central
+29249034;Rodrigo;Valverde;rvalverde@acacoop.com.ar;Productos Agricolas;Casa Central
+16852412;Ruben Gustavo;Vorraso;rvorraso@acacoop.com.ar;Puertos;Puerto San Lorenzo
+12032704;Walter Jose;Sachero;sachero@acacoop.com.ar;Insumos;Criadero Pergamino
+24120273;Mauro Sebastian;Saez;saez@acacoop.com.ar;Adm. y Finanzas;Sucursal Cordoba
+7866506;Nestor Eduardo;Salaberry;salaberry@acacoop.com.ar;Comercio Exterior;Casa Central
+20845917;Sandro;Salvatierra;salvatierra@acacoop.com.ar;Adm. y Finanzas;Casa Central
+12474005;Daniel Jose;Salvucci;salvucci@acacoop.com.ar;Productos Agricolas;Sucursal Bahía Blanca
+20277734;Maria Angelica;Sanchez;sanchez@acacoop.com.ar;Insumos;Criadero Pergamino
+17537802;Andres;Santa Cruz;santa_cruz@acacoop.com.ar;Insumos;Casa Central
+8462748;Oscar Raul;Santapaola;santapaola@acacoop.com.ar;Organos de Ejecución Gerencial;Casa Central
+27216495;Romina;Santapaola;santapaola_r@acacoop.com.ar;Mutual;Casa Central
+18202341;Pablo Gonzalo;Santirso;santirso@acacoop.com.ar;Puertos;Puerto Quequen
+22483450;Gabriel Angel;Sanz;sanz@acacoop.com.ar;Productos Agricolas;Sucursal Rosario
+11997224;Hector Arnoldo;Sarchione;sarchione@acacoop.com.ar;Insumos;Criadero Pergamino
+23677555;Silvana Beatriz;Boca;sboca@acacoop.com.ar;Insumos;CDC Wheelwright
+33826838;Sebastian Ariel;Bottazzi;sbottazzi@acacoop.com.ar;CDC;Sucursal Rosario
+12202651;Stella Maris;Scaffino;scaffino@acacoop.com.ar;Productos Agricolas;Sucursal Rosario
+35337078;Sofia Maricel;Capria;scapria@acacoop.com.ar;Insumos;Casa Central
+33156163;Sebastian Nicolas;Cardoso Fidalgo;scardoso@acacoop.com.ar;Adm. y Finanzas;Casa Central
+29140567;Sebastian;Cedeira;scedeira@acacoop.com.ar;Adm. y Finanzas;Sucursal Rosario
+7849324;Carlos Humberto;Schiapparelli;schiapparelli@acacoop.com.ar;Adm. y Finanzas;Casa Central
+27657437;Silvana Del Valle;Crotto;scrotto@acacoop.com.ar;Adm. y Finanzas;Sucursal Cordoba
+23710216;Sebastian Antonio;Cruz;scruz@acacoop.com.ar;Insumos;Planta Campana
+8115721;Alberto Carlos;Senetiner;senetiner@acacoop.com.ar;Insumos;Criadero Pergamino
+18362824;Sergio Raul;Fernandez Gatti;sfernandez@acacoop.com.ar;Comercio Exterior;Deposito de Miel
+22616261;Sebastian Fermin;Lopez;sflopez@acacoop.com.ar;Adm. y Finanzas;Sucursal Cordoba
+27515648;Francisco Nicolas;Sinopoli;sinopoli@acacoop.com.ar;Productos Agricolas;Sucursal Rosario
+27798292;Sabrina Edith;Lanau;slanau@acacoop.com.ar;Comercio Exterior;Casa Central
+29320723;Solange Danila;Macchia;smacchia@acacoop.com.ar;Adm. y Finanzas;Casa Central
+23337946;Leonardo Andres;Smoglie;smoglie@acacoop.com.ar;Comercio Exterior;Casa Central
+29000492;Sebastian Alejandr;Najle;snajle@acacoop.com.ar;Productos Agricolas;Sucursal Rosario
+24007311;Conrado Martin;Starezewski;snencargados@acacoop.com.ar;Insumos;Fábrica San Nicolás
+24007318;Patricio Antonio;Siboldi;snlaboratorio@acacoop.com.ar;Insumos;Fábrica San Nicolás
+24312468;Diego Nestor;Soldati;soldati@acacoop.com.ar;Insumos;Pergamino
+10376311;Oscar Guillermo;Soria;soria@acacoop.com.ar;Productos Agricolas;Sucursal Cordoba
+25641628;Martin;Spagnulo;spagnulo@acacoop.com.ar;Adm. y Finanzas;Casa Central
+25743800;Silvana Rita;Spiritoso;spiritoso@acacoop.com.ar;Adm. y Finanzas;Casa Central
+12514743;Isabel E.;Sposito;sposito@acacoop.com.ar;Comercio Exterior;Casa Central
+25982880;Sebastian Martin;Rivero;srivero@acacoop.com.ar;Productos Agricolas;Sucursal Rosario
+26931655;Samanta Vanesa;Rodriguez;srodriguez@acacoop.com.ar;CDC;CDC Iriarte
+26101503;Soledad;Ruvira;sruvira@acacoop.com.ar;Insumos;Casa Central
+30350499;Santiago Antonio;Sanger;ssanger@acacoop.com.ar;CDC;Sucursal Rosario
+20629944;Claudio Fabian;Stehle;stehle@acacoop.com.ar;Productos Agricolas;Sucursal Bahía Blanca
+25265319;Mauricio Alejandro;Barletta;suelo@acacoop.com.ar;Insumos;Pergamino - Suelo Fértil
+12174469;Carlos Alberto;Tammaro;tammaro@acacoop.com.ar;Adm. y Finanzas;Casa Central
+25226832;Tomas;Chiocconi;tchiocconi@acacoop.com.ar;Insumos;Sin Asignación Específica
+22104643;Claudio Maria A.;Temperini;temperini@acacoop.com.ar;Productos Agricolas;Sucursal Rosario
+16054254;Reynaldo;Tokatlian;tokatlian@acacoop.com.ar;Insumos;Casa Central
+24173219;Gabriel Alberto;Toledo;toledo@acacoop.com.ar;Productos Agricolas;Sucursal Cordoba
+13944374;Oscar Lujan;Toriglio;toriglio@acacoop.com.ar;Comercio Exterior;Sucursal Rosario
+17520067;Gustavo Andres;Torres;torres@acacoop.com.ar;Productos Agricolas;Puerto Quequen
+23329871;Pablo Luis;Treccozzi;treccozzi@acacoop.com.ar;Productos Agricolas;Casa Central
+34565060;Ulises Walter;Lagger;ulagger@acacoop.com.ar;Productos Agricolas;Filial Santa Fe
+13217071;Miguel Angel;Ulfe;ulfe@acacoop.com.ar;Comercio Exterior;Casa Central
+11858796;Miguel Angel;Valdez;valdez@acacoop.com.ar;Insumos;Planta Campana
+27207957;Vanesa Fernanda;Allegre;valegre@acacoop.com.ar;CDC;CDC Carlos M. Naón
+22175397;Veronica;Anca;vanca@acacoop.com.ar;Insumos;Criadero Pergamino
+12748614;Antonio Alberto;Vasta;vasta@acacoop.com.ar;Puertos;Puertos Vilelas
+14173442;Teresita De Los Angeles;Vazquez;vazquez@acacoop.com.ar;Adm. y Finanzas;Sucursal Bahía Blanca
+33087283;Vanesa Elizabeth;Chaile;vchaile@acacoop.com.ar;Adm. y Finanzas;Casa Central
+28631925;Valeria;Di Rado;vdirado@acacoop.com.ar;Comercio Exterior;Deposito de Miel
+7841065;Ricardo Hector;Vera;vera@acacoop.com.ar;CDC;Sucursal Rosario
+20854082;Victor;Fiorenza;vfiorenza@acacoop.com.ar;Puertos;Puerto San Lorenzo
+27245223;Vanesa Carina;Foglia;vfoglia@acacoop.com.ar;CDC;CDC Venado Tuerto
+17846886;Ruben Omar;Villalba;villalba@acacoop.com.ar;Organos de Ejecución Gerencial;Casa Central
+25974751;Leopoldo;Vomero;vomero@acacoop.com.ar;Productos Agricolas;Puerto Quequen
+31150414;Valeria Del Milagro Lujan;Schiro;vschiro@acacoop.com.ar;Productos Agricolas;Casa Central
+17241851;Walter Fabian;Brignoli;wbrignoli@acacoop.com.ar;Insumos;Fábrica San Nicolás
+13163477;Ricardo Alberto;Wlasiczuk;wlasiczuk@acacoop.com.ar;CDC;Casa Central
+14400161;Walter Bartolome;Mingo;wmingo@acacoop.com.ar;Insumos;Planta Campana
+32389899;Walter Nicolino;Novisardi;wnovisardi@acacoop.com.ar;CDC;Sucursal Rosario
+30621033;Walter Alexis;Rojas;wrojas@acacoop.com.ar;Puertos;Puerto San Lorenzo
+33573424;Wanda Ximena;Rosales;wrosales@acacoop.com.ar;Productos Agricolas;Casa Central
+26845599;Yanina Andrea;Aussello;yaussello@acacoop.com.ar;CDC;CDC Oliva
+16269883;Yolanda Noemi;Garayalde;ygarayalde@acacoop.com.ar;Insumos;Fábrica San Nicolás
+13448292;Daniel Jose;Yzaguirre;yzaguirre@acacoop.com.ar;CDC;Sucursal Rosario
+10927379;Ruben Cesar;Zanoni;zanoni@acacoop.com.ar;Productos Agricolas;Filial Pergamino
+92363919;Tomas Daniel;Zarza;zarza@acacoop.com.ar;Puertos;Casa Central
+29050447;Maria Zulema;Copperi;zcopperi@acacoop.com.ar;Insumos;Tres Arroyos - Suelo Fértil
+14093176;Maria;Zelaya Rodriguez;zelaya@acacoop.com.ar;Productos Agricolas;Filial Santa Fe

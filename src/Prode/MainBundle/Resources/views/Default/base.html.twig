@@ -1,0 +1,193 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+    <head>
+
+        <meta name="Description" content="Information architecture, Web Design, Web Standards." />
+        <meta name="Keywords" content="your, keywords" />
+        <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+        <meta name="Distribution" content="Global" />
+        <meta name="Author" content="Erwin Aligam - ealigam@gmail.com" />
+        <meta name="Robots" content="index,follow" />
+
+        {% stylesheets
+                'bundles/prodemain/css/*' filter='cssrewrite' 
+        %}
+        <link rel="stylesheet" type="text/css" href="{{ asset_url }}" />
+        {% endstylesheets %}
+
+        <link rel="stylesheet" type="text/css" href="http://code.jquery.com/ui/1.10.4/themes/smoothness/jquery-ui.css" />
+
+        <script src="{{ asset('bundles/fosjsrouting/js/router.js') }}"></script>
+        <script src="{{ path('fos_js_routing_js', {"callback": "fos.Router.setData"}) }}"></script>
+
+        <script src="//code.jquery.com/jquery-1.11.0.min.js"></script>
+        <script src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+        <script src="//code.jquery.com/ui/1.10.3/jquery-ui.js"></script>
+        <script src="//cdn.datatables.net/1.10.0/js/jquery.dataTables.js"></script>
+        
+        
+        <link rel="stylesheet" type="text/css" href="//cdn.datatables.net/1.10.0/css/jquery.dataTables.css" />
+
+        {% javascripts 
+                '@ProdeMainBundle/Resources/public/js/*' %}
+        <script src="{{ asset_url }}" type="text/javascript"></script>
+        {% endjavascripts %}
+
+        
+
+            <title>Prode Brasil 2014 - {% block title %}{% endblock %}</title>
+
+            <style>
+.correct_result {color:green; font-weight: bold; }
+.incorrect_result {color:red; }
+</style>
+            
+        </head>
+
+        <body>
+            {% trans_default_domain 'FOSUserBundle' %}
+                <!-- wrap starts here -->
+                <div id="{{ wrap_id }}">
+
+                    <!--header -->
+                    <!-- login -->
+                    <div id="container">
+
+                        <fieldset id="signin_menu">
+                            <form action="{{ path("fos_user_security_check") }}" method="post">
+                                <input type="hidden" name="_csrf_token" value="{{ fos_csrf_provider.generateCsrfToken('authenticate') }}" />
+                                <p>
+                                    <label for="username">{{ 'security.login.username'|trans }}</label>
+                                    <input type="text" id="username" name="_username" required="required" tabindex="4"/>
+                                </p>
+                                <p>
+                                    <label for="password">{{ 'security.login.password'|trans }}</label>
+                                    <input type="password" id="password" name="_password" required="required" tabindex="5" />
+                                </p>
+                                <p class="remember">
+                                    <input id="signin_submit" type="submit" id="_submit" name="_submit" value="{{ 'security.login.submit'|trans }}" />
+                                    <input type="checkbox" id="remember_me" name="_remember_me" value="on"  tabindex="7"/>
+                                    <label for="remember_me">{{ 'security.login.remember_me'|trans }}</label>
+                                </p>
+                                <p class="forgot">
+                                    <a href="{{ path('fos_user_resetting_request') }}" id="resend_password_link">Te olvidaste el password?</a> 
+                                </p>
+                            </form>
+                        </fieldset>
+                    </div>
+                    <!--header -->
+                    <div id="header">			
+
+                        <h1 id="logo-text">
+                            <a href="{{ path('prode_main_homepage') }}">
+                                {% image '@ProdeMainBundle/Resources/public/images/logo_aca.png' %}
+                                    <img src="{{ asset_url }}" alt="Example" />
+                                {% endimage %}
+                            </a>
+                        </h1>		
+                        <p id="slogan">&nbsp;</p>		
+
+                        <div id="header-links">
+                            
+                            <h1 id="logo-text" style="position: static; font: bolder 30px 'Trebuchet MS', Arial, Sans-serif; color: #ffffff; text-align: center; margin: 0;">
+                                ACA es Argentina... <br /> VAMOS ARGENTINA!
+                            </h1>
+                            
+                            <p>
+                                <a href="{{ path('prode_main_homepage') }}">Inicio</a> | 
+                    {% if app.user %}
+
+                                <a href="{{ path('fos_user_profile_show') }}">{{ app.user.username }}</a> | 
+                                <span id="topnav" class="topnav"><a href="{{ path('fos_user_security_logout') }}"><span>Salir</span></a></span>		
+                            </p>
+                    {% else %}
+                            <a href="{{ path('fos_user_registration_register') }}">Registrate</a> | 
+                            <span id="topnav" regisclass="topnav"><a href="#" class="signin"><span>Iniciar sesion</span></a></span>		
+                            </p>
+                    {% endif %}
+
+                        </div>		
+
+                    </div>
+
+                    <!-- navigation -->	
+                    <div  id="menu">
+                        <ul>
+                            <li {% if app.request.attributes.get('_route') == 'games' %} id="current" {% endif %}><a href="{{ path('games', {'round': 'A'}) }}" class="menu_link">Partidos</a></li>
+                            <li {% if app.request.attributes.get('_route') == 'results' %} id="current" {% endif %}><a href="{{ path('results', {'round': 'A'}) }}" class="menu_link">Resultados</a></li>
+                            <li {% if app.request.attributes.get('_route') == 'positions' %} id="current" {% endif %}><a href="{{ path('positions') }}" class="menu_link">Posiciones</a></li>
+                            <li {% if app.request.attributes.get('_route') == 'rules' %} id="current" {% endif %}><a href="{{ path('rules') }}" class="menu_link">Reglamento</a></li>
+                        </ul>
+                    </div>
+
+                    <div id="myDialog" title="Basic dialog">
+                        <p>Nombre de usuario o password incorrecto.</p>
+                    </div>			
+
+                    <!-- content-wrap starts here -->
+                    <div id="content-wrap">
+
+                    {% block content_wrap %}
+
+                    {% endblock %}
+                    </div>
+
+                    <!--footer starts here-->
+                    <div id="footer">
+
+                        <p>
+                            &copy; 2011 <strong>ElProde</strong> | 
+                            Design by: <a href="http://www.styleshout.com/">styleshout</a> | 
+                            Valid <a href="http://validator.w3.org/check?uri=referer">XHTML</a> | 
+                            <a href="http://jigsaw.w3.org/css-validator/check/referer">CSS</a>   		
+                        </p>
+
+                    </div>
+
+                    <!-- wrap ends here -->
+                </div>
+
+                <script type="text/javascript">
+                    $(document).ready(function() {
+
+                        $(".signin").click(function(e) {
+                            e.preventDefault();
+                            $("fieldset#signin_menu").toggle();
+                            $(".signin").toggleClass("menu-open");
+                        });
+
+                        $("fieldset#signin_menu").mouseup(function() {
+                            return false
+                        });
+                        $(document).mouseup(function(e) {
+                            if ($(e.target).parent("a.signin").length == 0) {
+                                $(".signin").removeClass("menu-open");
+                                $("fieldset#signin_menu").hide();
+                            }
+                        });
+
+                        $("#myDialog").dialog({
+                            autoOpen: false,
+                            modal: true,
+                            height: 170,
+                            width: 300,
+                            title: 'Error',
+                            buttons: {
+                                Ok: function() {
+                                    $(this).dialog("close");
+                                }
+                            }
+                        });
+
+                        {% if error is defined and error == 1 %}
+                        $("#myDialog").dialog("open");
+                        {% endif %}
+
+    {% block documentReady %}
+    {% endblock documentReady %}
+                    });
+
+                    </script>
+                </body>
+            </html>

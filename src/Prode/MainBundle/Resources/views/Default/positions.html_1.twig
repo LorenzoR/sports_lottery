@@ -1,0 +1,57 @@
+{% extends 'ProdeMainBundle:Default:baseOneColumn.html.twig' %}
+
+{% block title %}Posiciones{% endblock %}
+
+{% block body %}
+
+<div class="bb-md bb-md-section_estadisticas">
+    <div class="bd">
+        <div class="nav-tabla-estadisticas">
+            <ul>
+                <li id="tabla_posiciones_link" class="active" onClick="javascript: makeVis('tabla_posiciones', 'puntos_fecha', 'posiciones_fecha');">Posiciones</li>
+                <!-- <li id="puntos_fecha_link" onClick="javascript: makeVis('puntos_fecha', 'tabla_posiciones', 'posiciones_fecha');">Puntos por Fecha</li>
+                <li id="posiciones_fecha_link" onClick="javascript: makeVis('posiciones_fecha', 'puntos_fecha', 'tabla_posiciones');">Posiciones por Fecha</li> -->
+            </ul>
+        </div>
+
+        <div id="tabla_posiciones" class="resumen" style="display: block;">
+            <div class="bd">
+                <table id="positions" style="margin-left: 0px;">
+                    <thead>
+                    <th class="align_center" ><p class="position_header_small">#</p></th>
+                    <th class="align_center" colspan="2"><p class="position_header_large">USUARIO</p></th>
+                    <th class="align_center"><abbr title="1ra Ronda"><p class="position_header_small">1er Ronda</p></abbr></th>
+                    <th class="align_center"><abbr title="2da Ronda"><p class="position_header_small">8vos</p></abbr></th>
+                    <th class="align_center"><abbr title="2da Ronda"><p class="position_header_small">4tos</p></abbr></th>
+                    <th class="align_center"><abbr title="2da Ronda"><p class="position_header_small">Semi</p></abbr></th>
+                    <th class="align_center"><abbr title="2da Ronda"><p class="position_header_small">3er P</p></abbr></th>
+                    <th class="align_center"><abbr title="2da Ronda"><p class="position_header_small">Final</p></abbr></th>
+                    <th class="align_center"><p class="position_header_small">Pts</p></th>
+                    </thead>
+                    <tbody>
+                        {% for aUser in users %}
+                        <tr class="{{ cycle(['bg_green', ''], loop.index) }}">
+                            <td class="ancho-20">{{ loop.index }}</td>
+                            <td class="ancho-30"><img src="img/user/small/<?= $info['img']; ?>" width="30" height="30"></td>
+                            <td class="ancho-160">{{ aUser['username'] }}</td>
+                            <td class="ancho-60">{{ aUser['firstStage'] }}</td>
+                            <td class="ancho-60">{{ aUser['round8'] }}</td>
+                            <td class="ancho-60">{{ aUser['round4'] }}</td>
+                            <td class="ancho-60">{{ aUser['round2'] }}</td>
+                            <td class="ancho-60">{{ aUser['round3'] }}</td>
+                            <td class="ancho-60">{{ aUser['round1'] }}</td>
+                            <td class="ancho-60"><p class="pts">{{ aUser['total'] }}</p></td>
+                        </tr>
+                        {% endfor %}
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div id="sidebar">
+    &nbsp;
+</div>
+
+{% endblock %}

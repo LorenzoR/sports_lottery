@@ -1,0 +1,84 @@
+{% extends 'ProdeMainBundle:Default:baseOneColumn.html.twig' %}
+
+{% block body %}
+
+<button id="btn_resultados">Resultados</button>
+<button id="btn_resultados2">Resultados 2</button>
+
+<div id="nav-fixture" style="padding: 5px;">
+    <ul>
+        <li class="first">Primera Fase</li>
+        <li class="fechas"><a href="{{ path('results', {'round': 'A'}) }}" class="">Grupo A</a></li>
+        <li class="fechas"><a href="{{ path('results', {'round': 'B'}) }}" class="">Grupo B</a></li>
+        <li class="fechas"><a href="{{ path('results', {'round': 'C'}) }}" class="">Grupo C</a></li>
+        <li class="fechas"><a href="{{ path('results', {'round': 'D'}) }}" class="">Grupo D</a></li>
+        <li class="fechas"><a href="{{ path('results', {'round': 'E'}) }}" class="">Grupo E</a></li>
+        <li class="fechas"><a href="{{ path('results', {'round': 'F'}) }}" class="">Grupo F</a></li>
+        <li class="fechas"><a href="{{ path('results', {'round': 'G'}) }}" class="">Grupo G</a></li>
+        <li class="fechas"><a href="{{ path('results', {'round': 'H'}) }}" class="">Grupo H</a></li>
+    </ul>
+
+    <ul>
+        <li class="first">Segunda Fase</li>
+        <li class="fechas"><a href="{{ path('results', {'round': '8'}) }}" class="">Octavos</a></li>
+        <li class="fechas"><a href="{{ path('results', {'round': '4'}) }}" class="">Cuartos</a></li>
+        <li class="fechas"><a href="{{ path('results', {'round': '2'}) }}" class="">Semi Final</a></li>
+        <li class="fechas"><a href="{{ path('results', {'round': '3'}) }}" class="">Tercer Puesto</a></li>
+        <li class="fechas"><a href="{{ path('results', {'round': '1'}) }}" class="">Final</a></li>
+    </ul>
+</div>
+
+<div id="results">
+
+    <center>
+
+    {% for aForecast in forecasts %}
+        <h3>
+        {{ aForecast.home }} - {{ aForecast.away }}
+                <br/>
+        {{ aForecast.date|date("m/d/Y H:s") }}
+            </h3>
+
+            <table class="results">
+                <tr>
+                    <th><b>Usuario</b></th>
+                    <th><b>{{ aForecast.home }}</b></th>
+                    <th><b>Empate</b></th>
+                    <th><b>{{ aForecast.away }}</b></th>
+                    <th><b>Fecha</b></th>
+                </tr>
+
+        {% for aUser in aForecast.users %}
+
+                <tr id="user_{{ aUser.userId }}" class="{{ aUser.class }}" align="center">
+                    <td style="vertical-align: middle; height: 25px;">{{ aUser.username }} {{ aUser.userId }}</td>
+                    <td style="vertical-align: middle; height: 25px;">{{ aUser.home }}</td>
+                    <td style="vertical-align: middle; height: 25px;">{{ aUser.draw }}</td>
+                    <td style="vertical-align: middle; height: 25px;">{{ aUser.away }}</td>
+                    <td style="vertical-align: middle; height: 25px;">{{ aUser.date|date("m/d/Y H:i:s") }}</td>
+                </tr>
+
+        {% endfor %}
+
+            </table>
+
+            <div class="prode_line"></div>
+
+{% endfor %}
+        </center>
+
+    </div>
+
+{% block documentReady %}
+{{ parent() }}
+
+  $('#btn_resultados2').on('click', function(){getForecasts(1);});
+  $("#btn_resultados").click(function() {
+    $('html, body').animate({
+        scrollTop: $("#user_77").offset().top
+    });
+});
+
+{% endblock %}
+
+{% endblock %}
